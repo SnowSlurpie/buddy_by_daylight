@@ -1,0 +1,19 @@
+{
+  "name": "buddy_by_daylight",
+  "version": "1.0.0",
+  "description": "DBD Companion App meant to assist new and veteran players",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SnowSlurpie/buddy_by_daylight.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SnowSlurpie/buddy_by_daylight/issues"
+  },
+  "homepage": "https://github.com/SnowSlurpie/buddy_by_daylight#readme"
+}
