@@ -19,6 +19,7 @@ This project is a standalone application meant to support current Dead By Daylig
 
 ## Technologies Used
 - [React.js](https://reactjs.org/)
+- [Mongoose.js](https://mongoosejs.com/)
 
 ## Screenshot
 
