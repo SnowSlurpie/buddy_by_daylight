@@ -1,0 +1,1838 @@
+[
+    {
+        "id": "flipflop",
+        "displayName": "Flip-Flop",
+        "side": "survivor",
+        "teachableLevel": 30,
+        "characterIndex": 16,
+        "iconPath": "UI/Icons/Perks/Ash/iconPerks_flipFlop.png",
+        "description": "You have an uncanny ability to escape the inevitable.<br><br>While in dying state, <span class=\"Highlight1\"><span class=\"yellow\">50</span>%</span> of your recovery progression is converted into wiggle progression when you are picked up by The Killer, up to a maximum of <span class=\"Highlight2\"><span class=\"yellow\">40</span>/<span class=\"green\">45</span>/<span class=\"purple\">50</span>%</span> total wiggle progression.<br><br><span class=\"FlavorText\">\"Catch ya on the flip-flop.\" -Ash Williams</span>"
+    },
+    {
+        "id": "buckleup",
+        "displayName": "Buckle Up",
+        "side": "survivor",
+        "teachableLevel": 35,
+        "characterIndex": 16,
+        "iconPath": "UI/Icons/Perks/Ash/iconPerks_buckleUp.png",
+        "description": "Unlocks potential in one's aura reading ability. The recovery progress of dying Survivors can be determined by the intensity of their auras at a distance of up to <span class=\"Highlight1\"><span class=\"yellow\">48</span> meters</span>.<br><br>When you heal a Survivor from the dying state to injured, both the healed Survivor and yourself see The Killer's aura for a duration of <span class=\"Highlight2\"><span class=\"yellow\">6</span>/<span class=\"green\">8</span>/<span class=\"purple\">10</span> seconds</span>.<br><br><span class=\"FlavorText\">“Ghost beaters never leave a man behind.\" -Ash Williams</span>"
+    },
+    {
+        "id": "themettleofman",
+        "displayName": "Mettle of Man",
+        "side": "survivor",
+        "teachableLevel": 40,
+        "characterIndex": 16,
+        "iconPath": "UI/Icons/Perks/Ash/iconPerks_mettleOfMan.png",
+        "description": "Evil has a way of always finding you.<br><br>After you earn <span class=\"Highlight1\"><span class=\"yellow\">3</span> </span>Protection Hit scoring events, <i>Mettle of Man</i> activates. <br><br>Once activated, the next occasion that would put you into the <b>dying state</b> from the <b>injured state</b> is ignored.<br><br>The next time you heal back to full health, your aura will be revealed to the Killer when you are further than <span class=\"Highlight2\"><span class=\"yellow\">12</span>/<span class=\"green\">14</span>/<span class=\"purple\">16</span> meters</span> from the Killer.<br><br><i>Mettle of Man</i> will deactivate the next time you are put into the dying state.<br><i><li>Increases your chances to be the Killer’s Obsession.</li><li>The Killer can only be <b>obsessed</b> with one Survivor at a time.</li></i><br><br><span class=\"FlavorText\">\"Evil has a bullseye on my back the size of Tiger Stadium.\" -Ash Williams</span>"
+    },
+    {
+        "id": "k22p01",
+        "displayName": "Hoarder",
+        "side": "killer",
+        "teachableLevel": 30,
+        "characterIndex": 268435477,
+        "iconPath": "UI/Icons/Perks/Aurora/iconPerks_Hoarder.png",
+        "description": "You protect what little you have and are attentive to any disturbance of your stockpiles.<br><br>Survivors reveal their location when they interact with a chest or when they pick up an item within <span class=\"Highlight1\"><span class=\"yellow\">32</span>/<span class=\"green\">48</span>/<span class=\"purple\">64</span> meters</span> of your location.<br><br>The trial begins with up to <span class=\"Highlight1\"><span class=\"yellow\">2</span></span> additional chests in the environment."
+    },
+    {
+        "id": "k22p02",
+        "displayName": "Oppression",
+        "side": "killer",
+        "teachableLevel": 35,
+        "characterIndex": 268435477,
+        "iconPath": "UI/Icons/Perks/Aurora/iconPerks_Oppression.png",
+        "description": "Life has been difficult for you, so you’ll make it difficult for others.<br><br>When you damage a generator, up to <span class=\"Highlight1\"><span class=\"yellow\">3</span></span> other random generators also begin regressing.<br><br>If the affected generators are being repaired, any Survivors repairing them receive a difficult Skill Check.<br><br><i>Oppression</i> has a cooldown of <span class=\"Highlight2\"><span class=\"yellow\">120</span>/<span class=\"green\">100</span>/<span class=\"purple\">80</span></span> seconds. <br><br><span class=\"FlavorText\">\"Damn them as they would damn us.\" —Charlotte Deshayes</span>"
+    },
+    {
+        "id": "k22p03",
+        "displayName": "Coup de Grâce",
+        "side": "killer",
+        "teachableLevel": 40,
+        "characterIndex": 268435477,
+        "iconPath": "UI/Icons/Perks/Aurora/iconPerks_coupDeGrace.png",
+        "description": "As the end nears, you go in for the kill.<br><br>Each time a generator is completed, Coup de Grâce grows in power. Gain a token.<br><br>Consume one token to increase the distance of your next lunge attack by <span class=\"Highlight1\"><span class=\"yellow\">70</span>/<span class=\"green\">75</span>/<span class=\"purple\">80</span>%</span>."
+    },
+    {
+        "id": "s24p01",
+        "displayName": "Appraisal",
+        "side": "survivor",
+        "teachableLevel": 30,
+        "characterIndex": 23,
+        "iconPath": "UI/Icons/Perks/Aurora/iconPerks_appraisal.png",
+        "description": "You have a careful eye that notices what many overlook.<br><br>Start the trial with <span class=\"Highlight1\"><span class=\"yellow\">3</span> tokens</span>. When a chest has already been opened, consume a token to rummage through it for an item. Rummaging can only be performed once per chest.<br><br>You rummage through chests <span class=\"Highlight2\"><span class=\"yellow\">40</span>/<span class=\"green\">60</span>/<span class=\"purple\">80</span>%</span> faster."
+    },
+    {
+        "id": "s24p02",
+        "displayName": "Deception",
+        "side": "survivor",
+        "teachableLevel": 35,
+        "characterIndex": 23,
+        "iconPath": "UI/Icons/Perks/Aurora/iconPerks_deception.png",
+        "description": "Your adventurous lifestyle requires moments of crafty misdirection.<br><br>Interacting with a locker while sprinting will trigger a loud noise notification at your location and cause you to leave no scratch marks for <span class=\"Highlight1\"><span class=\"yellow\">3</span> seconds</span>.<br><br>You no longer enter lockers while sprinting and while this perk is active.<br><br><i>Deception</i> can only be triggered once every <span class=\"Highlight2\"><span class=\"yellow\">60</span>/<span class=\"green\">50</span>/<span class=\"purple\">40</span> seconds</span>."
+    },
+    {
+        "id": "s24p03",
+        "displayName": "Power Struggle",
+        "side": "survivor",
+        "teachableLevel": 40,
+        "characterIndex": 23,
+        "iconPath": "UI/Icons/Perks/Aurora/iconPerks_powerStruggle.png",
+        "description": "You’ve never given up and you’re not about to start now.<br><br>Whenever you are in the dying state, you see the auras of available Pallets.<br>While being carried by The Killer, reaching <span class=\"Highlight1\"><span class=\"yellow\">25</span>/<span class=\"green\">20</span>/<span class=\"purple\">15</span>%</span> wiggle progress activates <i>Power Struggle</i>. While <i>Power Struggle</i> is active, you can drop a nearby, standing pallet to stun The Killer.<br><br><span class=\"FlavorText\">“I relied on others to protect me once and I lost everything. Never again.” —Élodie Rakoto</span>"
+    },
+    {
+        "id": "bbqandchilli",
+        "displayName": "Barbecue & Chili",
+        "side": "killer",
+        "teachableLevel": 35,
+        "characterIndex": 268435464,
+        "iconPath": "UI/Icons/Perks/Cannibal/iconPerks_BBQAndChili.png",
+        "description": "A deep bond with The Entity unlocks potential in one's aura reading ability.<li>After hooking a Survivor, all other Survivors' auras are revealed to you for <span class=\"Highlight1\">4 seconds</span> when they are further than <span class=\"Highlight2\"><span class=\"yellow\">60</span>/<span class=\"green\">50</span>/<span class=\"purple\">40</span> meters</span> from the hook.</li><br><span class=\"FlavorText\">\"I just can't take no pleasure in killing. There's just some things you gotta do. Don't mean you have to like it.\" -Drayton Sawyer</span>"
+    },
+    {
+        "id": "inthedark",
+        "displayName": "Knock Out",
+        "side": "killer",
+        "teachableLevel": 30,
+        "characterIndex": 268435464,
+        "iconPath": "UI/Icons/Perks/Cannibal/iconPerks_knockOut.png",
+        "description": "The trauma caused by your brutal attacks makes crying for help painfully difficult.<br><li>Survivors put into the dying state by your basic attacks are not revealed to other Survivors when they are standing outside of a <span class=\"Highlight1\"><span class=\"yellow\">32</span>/<span class=\"green\">24</span>/<span class=\"purple\">16</span>-meter</span> range.</li><li>Survivors put into the dying state by your basic attacks crawl <span class=\"Highlight2\"><span class=\"yellow\">50</span>% slower</span> for <span class=\"Highlight3\"><span class=\"yellow\">15</span> seconds</span>, and their recovery speed is reduced by <span class=\"Highlight4\">25%</span>.</li><li>During this time, Survivors are affected by the <b>Blindness</b> status effect.</li><br><span class=\"ReminderText\">Blindness prevents Survivors from seeing auras.</span><br><br><span class=\"FlavorText\">\"Oh, that gun's no good. The old way… with a sledge! You see, that way's better. They die better that way.\" -Nubbins Sawyer</span>"
+    },
+    {
+        "id": "franklinsloss",
+        "displayName": "Franklin's Demise",
+        "side": "killer",
+        "teachableLevel": 40,
+        "characterIndex": 268435464,
+        "iconPath": "UI/Icons/Perks/Cannibal/iconPerks_franklinsLoss.png",
+        "description": "Your basic attacks make Survivors drop their item on impact. While on the ground, it takes up to <span class=\"Highlight1\"><span class=\"yellow\">150</span>/<span class=\"green\">120</span>/<span class=\"purple\">90</span> seconds</span> for the item to <b>lose all of its charges</b> if it is not picked up.<br>Reveal  items on the ground within <span class=\"Highlight2\"><span class=\"yellow\">32</span> meters</span> with a white aura. The Aura will slowly fade to red until the Item is empty of charges.<br><br><span class=\"FlavorText\">\"Sally, I hear something. Stop! Stop!\" -Franklin</span>"
+    },
+    {
+        "id": "k23p01",
+        "displayName": "Starstruck",
+        "side": "killer",
+        "teachableLevel": 30,
+        "characterIndex": 268435478,
+        "iconPath": "UI/Icons/Perks/Comet/iconPerks_Starstruck.png",
+        "description": "Your unmatched showmanship dazzles all.<br><br>While carrying a Survivor, any other Survivors within your Terror Radius suffer from the <b>Exposed</b> status effect.<br>The effect persists for <span class=\"Highlight1\"><span class=\"yellow\">26</span>/<span class=\"green\">28</span>/<span class=\"purple\">30</span> seconds</span> on Survivors who leave your Terror Radius, as well as those within the radius when you hook or release the carried Survivor.<br><i>Starstruck</i> has a cooldown of <span class=\"Highlight2\"><span class=\"yellow\">60</span> seconds</span> once a Survivor is no longer carried.<br><br><span class=\"ReminderText\">Exposed Survivors will be downed by basic attacks even if uninjured.</span><br><br><span class=\"FlavorText\">\"Enjoy this moment, few get so close.\" — Ji-Woon Hak</span>"
+    },
+    {
+        "id": "k23p02",
+        "displayName": "Hex: Crowd Control",
+        "side": "killer",
+        "teachableLevel": 35,
+        "characterIndex": 268435478,
+        "iconPath": "UI/Icons/Perks/Comet/iconPerks_HexCrowdControl.png",
+        "description": "A Hex that ensures those lesser than you are properly herded.<br><br>The Entity blocks a window for<span class=\"Highlight1\"> <span class=\"yellow\">14</span>/<span class=\"green\">17</span>/<span class=\"purple\">20</span> seconds</span> after a Survivor performs a <b>rushed</b> vault through it.<br><br><i>The Hex effects persist as long as the related Hex Totem is standing.</i><br><br><span class=\"FlavorText\">\"You have no control. People like you never did.\" — Ji-Woon Hak</span>"
+    },
+    {
+        "id": "k23p03",
+        "displayName": "No Way Out",
+        "side": "killer",
+        "teachableLevel": 40,
+        "characterIndex": 268435478,
+        "iconPath": "UI/Icons/Perks/Comet/iconPerks_NoWayOut.png",
+        "description": "You're not going to let just anyone into the VIP room.<br><br>After hooking a Survivor for the first time, <i>No Way Out</i> gains a token. <b>Once the exit gates have been powered</b>, <i>No Way Out</i> activates. <li>When a Survivor interacts with an exit gate switch, you receive a loud noise notification. The Entity then blocks both exit gate switches for <span class=\"Highlight1\"><span class=\"yellow\">12</span> seconds</span>, plus an additional <span class=\"Highlight2\"><span class=\"yellow\">6</span>/<span class=\"green\">9</span>/<span class=\"purple\">12</span> seconds</span> for each token in your possession.</li><br><br><span class=\"FlavorText\">\"That sound when you bleed...let me hear it again.\" — Ji-Woon Hak</span>"
+    },
+    {
+        "id": "s25p01",
+        "displayName": "Fast Track",
+        "side": "survivor",
+        "teachableLevel": 30,
+        "characterIndex": 24,
+        "iconPath": "UI/Icons/Perks/Comet/iconPerks_FastTrack.png",
+        "description": "Sometimes the sacrifice of others is necessary to get ahead.<br><br>Whenever another Survivor is hooked, you gain <span class=\"Highlight1\"><span class=\"yellow\">1</span>/<span class=\"green\">2</span>/<span class=\"purple\">3</span> tokens</span>. You consume all tokens after a great Skill Check on a generator. Each token consumed grants a <span class=\"Highlight2\"><span class=\"yellow\">1</span>%</span> bonus progression for great Skill Checks when repairing generators.<br><br><span class=\"FlavorText\">\"The weak are sacrificed first. It's nature, it's business... it's the truth most refuse to face.\" — Yun-Jin</span>"
+    },
+    {
+        "id": "s25p02",
+        "displayName": "Smash Hit",
+        "side": "survivor",
+        "teachableLevel": 35,
+        "characterIndex": 24,
+        "iconPath": "UI/Icons/Perks/Comet/iconPerks_SmashHit.png",
+        "description": "When your rival makes a mistake, you seize the opportunity.<br><br>After stunning the Killer with a pallet, break into a sprint at <span class=\"Highlight1\"><span class=\"yellow\">150</span>%</span> your normal running speed for <span class=\"Highlight2\"><span class=\"yellow\">4</span> seconds</span>.<br>Causes the <b>Exhausted</b> status effect for <span class=\"Highlight3\"><span class=\"yellow\">60</span>/<span class=\"green\">50</span>/<span class=\"purple\">40</span> seconds</span>.<br>This perk cannot be used while <b>Exhausted</b>.<br><br><span class=\"FlavorText\">\"I've dealt with psychopaths in suits. You're just uglier and worse dressed.\" —Yun-Jin</span>"
+    },
+    {
+        "id": "s25p03",
+        "displayName": "Self-Preservation",
+        "side": "survivor",
+        "teachableLevel": 40,
+        "characterIndex": 24,
+        "iconPath": "UI/Icons/Perks/Comet/iconPerks_Self-Preservation.png",
+        "description": "Life's unforgiving. Sometimes it's best to look out for yourself.<br><br>Whenever another Survivor within <span class=\"Highlight1\"><span class=\"yellow\">16</span> meters</span> of you gets hit by a basic attack or a special attack, <i>Self-Preservation</i> activates.<br>Your scratch marks, pools of blood and grunts of pain are hidden for <span class=\"Highlight2\"><span class=\"yellow\">6</span>/<span class=\"green\">8</span>/<span class=\"purple\">10</span> seconds</span>.<br><br><span class=\"FlavorText\">\"Something I learned in the industry: when the axe is swinging, keep your head down.\" — Yun-Jin</span>"
+    },
+    {
+        "id": "solesurvivor",
+        "displayName": "Sole Survivor",
+        "side": "survivor",
+        "teachableLevel": 30,
+        "characterIndex": 5,
+        "iconPath": "UI/Icons/Perks/DLC2/iconPerks_soleSurvivor.png",
+        "description": "As more of your friends fall to the Killer, you become shrouded in isolation and the Killer's <b>aura-reading abilities</b> towards you are disrupted.<br><br>Every time a fellow Survivor is killed or sacrificed, gain a token. For each token, your aura cannot be read by The Killer within a max range of <span class=\"Highlight1\"><span class=\"yellow\">20</span>/<span class=\"green\">22</span>/<span class=\"purple\">24</span> meters</span>.<br>When you're the last Survivor alive:<li>Gain <span class=\"Highlight2\">75%</span> action speed when repairing generators.</li><li>Gain <span class=\"Highlight3\">50%</span> action speed while opening an exit gate or the Hatch.</li><br><li><i>Increases your chances of being The Killer's Obsession.</i></li><li><i>The Killer can only be <b>obsessed</b> with one Survivor at a time.</i></li><br><span class=\"FlavorText\">“It was the boogeyman.” -Laurie Strode</span></br>"
+    },
+    {
+        "id": "decisivestrike",
+        "displayName": "Decisive Strike",
+        "side": "survivor",
+        "teachableLevel": 40,
+        "characterIndex": 5,
+        "iconPath": "UI/Icons/Perks/DLC2/iconPerks_decisiveStrike.png",
+        "description": "Stab at your aggressor in an attempt to escape.<br>After being unhooked or unhooking yourself, <i>Decisive Strike</i> activates for <span class=\"Highlight1\"><span class=\"yellow\">40</span>/<span class=\"green\">50</span>/<span class=\"purple\">60</span> seconds</span>.<br>While active, complete a Skill Check when grabbed by the Killer to escape, stunning them for <span class=\"Highlight2\">3 seconds</span>.<li>Succeeding or failing the Skill Check disables <i>Decisive Strike</i>.</li><li>You become the Obsession after stunning the Killer.</li><li>The perk and its effects are disabled if the exit gates are powered.</li><br>Taking any Conspicuous Action will deactivate <i>Decisive Strike</i>.<br><br><li><i>Increases your chance to be the Obsession.</i></li><li><i>The Killer can only be obsessed with one Survivor at a time.</i></li>"
+    },
+    {
+        "id": "objectofobsession",
+        "displayName": "Object of Obsession",
+        "side": "survivor",
+        "teachableLevel": 35,
+        "characterIndex": 5,
+        "iconPath": "UI/Icons/Perks/DLC2/iconPerks_objectOfObsession.png",
+        "description": "A supernatural bond links you to the Killer.<br><br>Whenever your aura is revealed to the Killer, the Killer's aura becomes visible to you and you gain a <span class=\"Highlight1\"><span class=\"yellow\">2</span>/<span class=\"green\">4</span>/<span class=\"purple\">6</span>%</span> bonus to healing, repairing and cleansing speed.<br>If you are the Obsession, your aura is revealed to the Killer for <span class=\"Highlight2\">3 seconds</span> once every <span class=\"Highlight3\">30 seconds</span>.<br>Increases your chances of being the Obsession.<br><br><span class=\"FlavorText\">“He was watching me!” -Laurie Strode</span>"
+    },
+    {
+        "id": "save_the_best_for_last",
+        "displayName": "Save the best for last",
+        "side": "killer",
+        "teachableLevel": 30,
+        "characterIndex": 268435461,
+        "iconPath": "UI/Icons/Perks/DLC2/iconPerks_saveTheBestForLast.png",
+        "description": "You become <b>obsessed</b> with one Survivor.<br>Earn a token for each successful <i>basic attack</i> that is not dealt to the Obsession. <br>Each token grants a stackable <span class=\"Highlight1\"><span class=\"yellow\">5</span>%</span> decreased successful <i>basic attack</i> cooldown, you can earn up to <span class=\"Highlight2\"><span class=\"yellow\">8</span></span> tokens.<br>Hitting your Obsession with a <i>basic attack</i> will cause you to lose <span class=\"Highlight3\"><span class=\"yellow\">4</span>/<span class=\"green\">3</span>/<span class=\"purple\">2</span></span> tokens. <br>You can no longer gain tokens if your Obsession is sacrificed or killed.<br><li><i>The Killer can only be <b>obsessed</b> with one Survivor at a time.</i></li><br><span class=\"FlavorText\">\"Death has come to your little town, sheriff.\" -Dr. Sam Loomis</span>"
+    },
+    {
+        "id": "dying_light",
+        "displayName": "Dying Light",
+        "side": "killer",
+        "teachableLevel": 40,
+        "characterIndex": 268435461,
+        "iconPath": "UI/Icons/Perks/DLC2/iconPerks_dyingLight.png",
+        "description": "You become <b>obsessed</b> with one Survivor.<br>Your Obsession gains a <span class=\"Highlight1\"><span class=\"yellow\">33</span>%</span> action speed bonus to unhooking and healing other Survivors.<br>Each time you hook a Survivor other than the Obsession, if the Obsession is alive, gain a token.<br>If the Obsession is alive, all Survivors who are not the Obsession get <span class=\"Highlight2\"><span class=\"yellow\">2</span>/<span class=\"green\">2.5</span>/<span class=\"purple\">3</span>%</span> penalty to repair, healing and sabotage speeds for each token.<br><span class=\"ReminderText>\"The Killer can only be <b>obsessed</b> with one Survivor at a time.</span><br><span class=\"FlavorText\">\"This isn't a man...\" -Dr.Sam Loomis </span>"
+    },
+    {
+        "id": "play_with_your_food",
+        "displayName": "Play with your food",
+        "side": "killer",
+        "teachableLevel": 35,
+        "characterIndex": 268435461,
+        "iconPath": "UI/Icons/Perks/DLC2/iconPerks_playWithYourFood.png",
+        "description": "You become <b>obsessed</b> with one Survivor.<br>Every time you chase your Obsession and let them escape, you receive a token up to a maximum of <span class=\"yellow\">3</span> tokens.<br>Each token increases your movement speed by <span class=\"Highlight1\"><span class=\"yellow\">3</span>/<span class=\"green\">4</span>/<span class=\"purple\">5</span>%</span>.<br>Performing a <i>basic attack</i> or <i>Special Attack</i> spends one token.<br><span class=\"ReminderText>\"The Killer can only be <b>obsessed</b> with one Survivor at a time.</span><br><span class=\"FlavorText\">“You've fooled them, haven't you Michael? But not me.” -Dr. Sam Loomis</span>"
+    },
+    {
+        "id": "technician",
+        "displayName": "Technician",
+        "side": "survivor",
+        "teachableLevel": 30,
+        "characterIndex": 8,
+        "iconPath": "UI/Icons/Perks/DLC4/iconPerks_technician.png",
+        "description": "You are apt at handling machinery with the greatest care and precision.<br>The noises caused by your repairs and their hearing distance are reduced by <span class=\"Highlight2\"><span class=\"yellow\">8</span> meters</span>.<br>On a failed repair Skill Check, the following effects happen:<br><li>The generator explosion will be prevented.</li><li>The generator loses progress as usual.</li><li>An additional <span class=\"Highlight1\"><span class=\"yellow\">5</span>/<span class=\"green\">4</span>/<span class=\"purple\">3</span>%</span> progress is lost.</li><br><span class=\"FlavorText\">“I’m gonna stealth this one.” -Feng Min</span>"
+    },
+    {
+        "id": "lithe",
+        "displayName": "Lithe",
+        "side": "survivor",
+        "teachableLevel": 35,
+        "characterIndex": 8,
+        "iconPath": "UI/Icons/Perks/DLC4/iconPerks_lithe.png",
+        "description": "After performing a <b>rushed</b> vault, break into a sprint at <span class=\"Highlight1\"><span class=\"yellow\">150</span>%</span> of your normal running speed for a maximum of <span class=\"Highlight2\"><span class=\"yellow\">3</span> seconds</span>. <br>Causes the <i>Exhausted</i> status effect for <span class=\"Highlight4\"><span class=\"yellow\">60</span>/<span class=\"green\">50</span>/<span class=\"purple\">40</span> seconds</span>.<br><i>Lithe</i> cannot be used while <i>Exhausted</i>.<br>You do not recover from the <i>Exhausted</i> status effect while running.<br><br><span class=\"FlavorText\">“U mad?” -Feng Min</span>"
+    },
+    {
+        "id": "alert",
+        "displayName": "Alert",
+        "side": "survivor",
+        "teachableLevel": 40,
+        "characterIndex": 8,
+        "iconPath": "UI/Icons/Perks/DLC4/iconPerks_alert.png",
+        "description": "Your acute senses are on high alert.<br>When the Killer performs a break action, the Killer is revealed to you for <span class=\"Highlight1\"><span class=\"yellow\">3</span>/<span class=\"green\">4</span>/<span class=\"purple\">5</span> seconds</span>.<br><br><span class=\"FlavorText\">“I have true sight.” -Feng Min</span>"
+    },
+    {
+        "id": "overwhelmingpresence",
+        "displayName": "Overwhelming Presence",
+        "side": "killer",
+        "teachableLevel": 30,
+        "characterIndex": 268435462,
+        "iconPath": "UI/Icons/Perks/DLC4/iconPerks_overwhelmingPresence.png",
+        "description": "Just knowing you are near is enough to disturb your victims.<br><br>Survivors within your Terror Radius suffer from inefficiency.<br>Affected Survivors' item consumption rates are increased by <span class=\"Highlight1\"><span class=\"yellow\">80</span>/<span class=\"green\">90</span>/<span class=\"purple\">100</span>%</span>.<br><br><span class=\"FlavorText\">\"Shit!! I dropped the gauze!\"</span>"
+    },
+    {
+        "id": "monitorandabuse",
+        "displayName": "Monitor & Abuse",
+        "side": "killer",
+        "teachableLevel": 35,
+        "characterIndex": 268435462,
+        "iconPath": "UI/Icons/Perks/DLC4/iconPerks_monitorAndAbuse.png",
+        "description": "Meticulous in your approach, terrifying in your application.<br><br>While in a chase, your Terror Radius is increased by <span class=\"Highlight1\"><span class=\"yellow\">8</span> meters</span>. Otherwise, your Terror Radius is decreased by <span class=\"Highlight2\"><span class=\"yellow\">8</span> meters</span> and your field of view is increased by <span class=\"Highlight3\"><span class=\"yellow\">3</span>/<span class=\"green\">5</span>/<span class=\"purple\">10</span> degrees</span>.<br><i>Field of view gains do not stack.</i><br><br><span class=\"FlavorText\">\"It's time for your treatment!\" -The Doctor</span>"
+    },
+    {
+        "id": "generatorovercharge",
+        "displayName": "Overcharge",
+        "side": "killer",
+        "teachableLevel": 40,
+        "characterIndex": 268435462,
+        "iconPath": "UI/Icons/Perks/DLC4/iconPerks_generatorOvercharge.png",
+        "description": "You are fuelled by your hate for progress.<br><br><i>Overcharge</i> a generator by performing the <b>Damage Generator</b> action. The next Survivor interacting with that generator is faced with a difficult Skill Check. Failing the Skill Check results in an additional <span class=\"Highlight1\"><span class=\"yellow\">3</span>/<span class=\"green\">4</span>/<span class=\"purple\">5</span>%</span> loss of progress.<br>Succeeding the Skill Check grants no progress but prevents the generator explosion.<br><br>After <i>Overcharge</i> is applied to a generator, its regression speed increases from <span class=\"Highlight2\">75%</span> of normal to <span class=\"Highlight3\">200%</span> of normal over the next <span class=\"Highlight4\">30 seconds</span>.<br><br><span class=\"FlavorText\">\"It is a trap. But a trap one must step in…\" -The Doctor</span>"
+    },
+    {
+        "id": "beastofprey",
+        "displayName": "Beast of Prey",
+        "side": "killer",
+        "teachableLevel": 30,
+        "characterIndex": 268435463,
+        "iconPath": "UI/Icons/Perks/DLC5/iconPerks_BeastOfPrey.png",
+        "description": "Your lust for a kill is so intense that your connection with The Entity is momentarily lost, making you totally unpredictable.<br><br>Grants the <b>Undetectable</b> status effect after gaining Bloodlust Tier I. The status effect is removed once you lose Bloodlust.<br><br><li>Gain <span class=\"Highlight1\"><span class=\"yellow\">30</span>/<span class=\"green\">40</span>/<span class=\"purple\">50</span>%</span> more Bloodpoints for actions in the Hunter Category.</li><br><span class=\"ReminderText\">Undetectable hides the Killer's aura, Terror Radius, and Red Stain.</span><br><br><span class=\"FlavorText\">\"Where did she go?\"</span>"
+    },
+    {
+        "id": "deadhard",
+        "displayName": "Dead Hard",
+        "side": "survivor",
+        "teachableLevel": 35,
+        "characterIndex": 9,
+        "iconPath": "UI/Icons/Perks/DLC5/iconPerks_DeadHard.png",
+        "description": "Activatable perk.<br>You can take a beating. When injured, tap into your adrenaline bank to avoid incoming damage.<br><li>Press the <i>Active Ability</i> button while running to gain the Endurance status effect for the next <span class=\"Highlight1\">0.5 seconds</span>.</li><li>Causes the <i>Exhausted</i> status effect for <span class=\"Highlight2\"><span class=\"yellow\">60</span>/<span class=\"green\">50</span>/<span class=\"purple\">40</span> seconds</span>.</li><br><br><span class=\"ReminderText\">Exhausted prevents survivors from activating exhausting perks.</span><br><br><span class=\"FlavorText\">“We were walkin’ through t’ginnel one night when a beer bottle flew past me, then another, and another. I thought to myself, “Gonna ’ave some fun ‘ere lads, let’s get stuck in!” It were a right dust up, I swear down!” -David King</span>"
+    },
+    {
+        "id": "hex_huntresslullaby",
+        "displayName": "Hex: Huntress Lullaby",
+        "side": "killer",
+        "teachableLevel": 40,
+        "characterIndex": 268435463,
+        "iconPath": "UI/Icons/Perks/DLC5/iconPerks_HuntressLullaby.png",
+        "description": "A Hex rooting its power in despair. Your hunt is an irresistible song of dread which muddles your prey's attention.<br><br>Survivors receive a <span class=\"Highlight1\"><span class=\"yellow\">2</span>/<span class=\"green\">4</span>/<span class=\"purple\">6</span>%</span> regression penalty when missing a Skill Check while healing or repairing.<br>Each time a Survivor is hooked, Huntress Lullaby grows in power. It affects healing and repairing Skill Check warnings:<br><li><b>1 to 4 Tokens:</b> Time between the Skill Check warning sound and the Skill Check becomes shorter.</li><li><b>5 Tokens:</b> No Skill Check warning.</li><br><i>The Hex effects persist as long as the related Hex Totem is standing.</i>"
+    },
+    {
+        "id": "nomither",
+        "displayName": "No Mither",
+        "side": "survivor",
+        "teachableLevel": 40,
+        "characterIndex": 9,
+        "iconPath": "UI/Icons/Perks/DLC5/iconPerks_NoMither.png",
+        "description": "You are affected by the <span class=\"Highlight1\">Broken</span> status effect for the duration of the trial.<br>Your thick blood coagulates practically instantly. <li>You don't leave pools of blood.</li><li>Grunts of pain caused by injuries are reduced by <span class=\"Highlight2\"><span class=\"yellow\">25</span>/<span class=\"green\">50</span>/<span class=\"purple\">75</span>%</span> at any time.</li><li>Your recovery speed is increased by <span class=\"Highlight3\"><span class=\"yellow\">15</span>/<span class=\"green\">20</span>/<span class=\"purple\">25</span>%</span> and you can completely recover from the dying state.</li><br><span class=\"FlavorText\">“I lost it. Just lamped him one. They went and banned me didn’t they. Went t’pub afterwards, had a few pints and moved on to the next chapter. I couldn’t be mithered with it all anyway, you know what I mean? Can’t be arsed.” -David King</span>"
+    },
+    {
+        "id": "territorialimperative",
+        "displayName": "Territorial Imperative",
+        "side": "killer",
+        "teachableLevel": 35,
+        "characterIndex": 268435463,
+        "iconPath": "UI/Icons/Perks/DLC5/iconPerks_TerritorialImperative.png",
+        "description": "Unlocks potential in one's aura reading ability. Survivors' auras are revealed to you for <span class=\"Highlight1\"><span class=\"yellow\">3</span> seconds</span> when they enter the basement and you are more than <span class=\"Highlight2\"><span class=\"yellow\">32</span> meters</span> away from the basement entrance.<br><i>Territorial Imperative</i> can only be triggered once every <span class=\"Highlight3\"><span class=\"yellow\">30</span>/<span class=\"green\">25</span>/<span class=\"purple\">20</span> seconds</span>."
+    },
+    {
+        "id": "weregonnaliveforever",
+        "displayName": "We're Gonna Live Forever",
+        "side": "survivor",
+        "teachableLevel": 30,
+        "characterIndex": 9,
+        "iconPath": "UI/Icons/Perks/DLC5/iconPerks_WereGonnaLiveForever.png",
+        "description": "Your few friends deserve the best protection.<br><br>When healing another Survivor in the dying state, your healing speed is increased by <span class=\"Highlight1\">100%.</span><br>Additionally, performing any of the following actions activates this perk's secondary function:<li>Perform a Safe Hook Rescue</li><li>Take a hit to protect a Survivor</li><li>Rescue a Survivor by stunning the Killer with a pallet</li><li>Rescue a Survivor by blinding the Killer with a Flashlight</li>When this perk's secondary function is active, healing another Survivor out of the dying state grants them <b>Endurance</b> for <span class=\"Highlight2\"><span class=\"yellow\">6</span>/<span class=\"green\">8</span>/<span class=\"purple\">10</span> seconds</span> and deactivates the secondary function.<br><br><span class=\"ReminderText\">Endurance prevents a Survivor from being downed, inflicting Deep Wound instead.</span><br><br><span class=\"FlavorText\">“Come on then, let’s ‘ave it! I don’t give a shit pal.” -David King</span>"
+    },
+    {
+        "id": "k24p01",
+        "displayName": "Lethal Pursuer",
+        "side": "killer",
+        "teachableLevel": 30,
+        "characterIndex": 268435479,
+        "iconPath": "UI/Icons/Perks/Eclipse/iconPerks_lethalPursuer.png",
+        "description": "You've been designed to track down and eliminate targets.<br><br><li>At the start of the trial, the auras of all Survivors are revealed to you for <span class=\"Highlight1\"><span class=\"yellow\">7</span>/<span class=\"green\">8</span>/<span class=\"purple\">9</span> seconds</span>.</li><li>Any time a Survivor's aura is shown for a period of time, its duration is increased by <span class=\"Highlight2\">2 seconds</span>.</li><br><span class= \"FlavorText\">\"...it knows what it wants and won't stop till it gets it.\" —Carlos Oliveira</span>"
+    },
+    {
+        "id": "k24p02",
+        "displayName": "Hysteria",
+        "side": "killer",
+        "teachableLevel": 35,
+        "characterIndex": 268435479,
+        "iconPath": "UI/Icons/Perks/Eclipse/iconPerks_hysteria.png",
+        "description": "You know how to brutalize one member of a team to cause a panic.<br><br>Whenever a healthy Survivor becomes injured by any means, all injured Survivors suffer from the <b>Oblivious</b> status effect for <span class=\"Highlight1\"><span class=\"yellow\">20</span>/<span class=\"green\">25</span>/<span class=\"purple\">30</span> seconds</span>.<br><I>Hysteria</i> can only trigger once every <span class=\"Highlight2\"><span class=\"yellow\">30</span> seconds</span>.<br><br><span class=\"ReminderText\">Oblivious prevents Survivors from hearing or being affected by the Killer's Terror Radius.</span><br><br><span class= \"FlavorText\">\"Sorry I got a little jumpy there. Didn't know quite what to expect.\" —Robert Kendo</span>"
+    },
+    {
+        "id": "k24p03",
+        "displayName": "Eruption",
+        "side": "killer",
+        "teachableLevel": 40,
+        "characterIndex": 268435479,
+        "iconPath": "UI/Icons/Perks/Eclipse/iconPerks_eruption.png",
+        "description": "The NE-α parasite provides you with the intelligence and awareness needed to set a trap.<br><br>After damaging a generator, its aura is highlighted in yellow.<br><li>Whenever a Survivor enters the dying state, every affected generator explodes, losing <span class=\"Highlight1\"><span class=\"yellow\">10</span>%</span> worth of progress and starts to regress.</li><li>Any Survivor repairing a generator when it explodes will scream and suffer from the <b>Incapacitated</b> status effect for <span class=\"Highlight2\"><span class=\"yellow\">15</span>/<span class=\"green\">20</span>/<span class=\"purple\">25</span> seconds</span>.</li><br><i>Eruption</i> has a cooldown of <span class=\"Highlight3\"><span class=\"yellow\">30</span> seconds</span>.<br><br><span class=\"ReminderText\">Incapacitated prevents Survivors from healing, repairing, sabotaging, cleansing, mending or using items.</span><br><br><span class= \"FlavorText\">\"It can use weapons?\" —Jill Valentine</span>"
+    },
+    {
+        "id": "s26p01",
+        "displayName": "Counterforce",
+        "side": "survivor",
+        "teachableLevel": 30,
+        "characterIndex": 25,
+        "iconPath": "UI/Icons/Perks/Eclipse/iconPerks_Counterforce.png",
+        "description": "You know how to withstand an enemy stronger than you, and it starts with hunting down and knocking out their support.<br><br>You cleanse Totems <span class=\"Highlight1\">20%</span> faster. After cleansing a Totem, you see the aura of the furthest Totem from you for <span class=\"Highlight2\"><span class=\"yellow\">2</span>/<span class=\"green\">3</span>/<span class=\"purple\">4</span> seconds</span> and you gain an additional <span class=\"Highlight3\"><span class=\"yellow\">20</span>%</span> stackable speed bonus to cleansing Totems for the remainder of the trial.<br><br><span class= \"FlavorText\">\"I don't mind a little detective work.\" —Jill Valentine</span>"
+    },
+    {
+        "id": "s26p02",
+        "displayName": "Resurgence",
+        "side": "survivor",
+        "teachableLevel": 35,
+        "characterIndex": 25,
+        "iconPath": "UI/Icons/Perks/Eclipse/iconPerks_Resurgence.png",
+        "description": "You've come back from near impossible odds... and you'll do it again.<br><br>Gain <span class=\"Highlight1\"><span class=\"yellow\">40</span>/<span class=\"green\">45</span>/<span class=\"purple\">50</span>%</span> healing progress instantly after being unhooked or unhooking yourself.<br><br><span class= \"FlavorText\">\"It's my turn, bitch.\" —Jill Valentine</span>"
+    },
+    {
+        "id": "s26p03",
+        "displayName": "Blast Mine",
+        "side": "survivor",
+        "teachableLevel": 40,
+        "characterIndex": 25,
+        "iconPath": "UI/Icons/Perks/Eclipse/iconPerks_blastMine.png",
+        "description": "When direct combat isn't an option, you still find ways to strike back.<br><br><i>Blast Mine</i> activates after completing a total of <span class=\"Highlight1\"><span class=\"yellow\">66</span>%</span> worth of repair progress on generators.<br>After repairing a generator for at least <span class=\"Highlight2\"><span class=\"yellow\">3</span> seconds</span>, press the <i>Ability button</i> to install a trap which stays active for <span class=\"Highlight3\"><span class=\"yellow\">35</span>/<span class=\"green\">40</span>/<span class=\"purple\">45</span> seconds</span>. Affected generators will be revealed to all Survivors by a yellow aura. Only one trap can be active on a generator.<br><li>When the Killer damages a trapped generator, the trap explodes, stunning them and blinding anyone nearby. <i>Blast Mine</i> is then deactivated.</li><br><br><span class= \"FlavorText\">\"You want S.T.A.R.S.? I'll give you S.T.A.R.S.! \"  —Jill Valentine</span>"
+    },
+    {
+        "id": "s27p01",
+        "displayName": "Bite the Bullet",
+        "side": "survivor",
+        "teachableLevel": 30,
+        "characterIndex": 26,
+        "iconPath": "UI/Icons/Perks/Eclipse/iconPerks_BiteTheBullet.png",
+        "description": "Pain hurts you as much as anyone, but you'd prefer others don't know that.<br><br>When healing, you and the Survivor you're healing make no noise, including grunts of pain. There is no noise notification on failed healing Skill Checks and healing regresses by only <span class=\"Highlight1\"><span class=\"yellow\">3</span>/<span class=\"green\">2</span>/<span class=\"purple\">1</span>%</span>.<br><br><span class= \"FlavorText\">\"I can do this.\" —Leon S. Kennedy</span>"
+    },
+    {
+        "id": "s27p02",
+        "displayName": "Flashbang",
+        "side": "survivor",
+        "teachableLevel": 35,
+        "characterIndex": 26,
+        "iconPath": "UI/Icons/Perks/Eclipse/iconPerks_Flashbang.png",
+        "description": "You've adapted to a world in chaos and making what you can from the debris.<br><br>After completing <span class=\"Highlight1\"> <span class=\"yellow\">70</span>/<span class=\"green\">60</span>/<span class=\"purple\">50</span>%</span> progress on any generator, <i>Flashbang</i> activates.<br>Enter a locker while empty-handed and press the Ability button to craft a flash grenade.<br><li>1 charge.</li><li>Detonates with a loud bang and flashing light.</li><li>Creates a noise notification.</li><li>Can be used to distract or blind.</li><br>You leave the flash grenade behind when escaping the trial.<br><br><span class= \"FlavorText\">\"Get outta my face!\" —Leon S. Kennedy</span>"
+    },
+    {
+        "id": "s27p03",
+        "displayName": "Rookie Spirit",
+        "side": "survivor",
+        "teachableLevel": 40,
+        "characterIndex": 26,
+        "iconPath": "UI/Icons/Perks/Eclipse/iconPerks_RookieSpirit.png",
+        "description": "You keep a careful eye on objectives when they're slipping away.<br><br>Complete <span class=\"Highlight1\"><span class=\"yellow\">5</span>/<span class=\"green\">4</span>/<span class=\"purple\">3</span></span> good or great Skill Checks while repairing generators to activate <i>Rookie Spirit</i> for the remainder of the trial.<br>Once active, you can see the aura of regressing generators.<br><br><span class= \"FlavorText\">\"I'll stop this, lieutenant. I promise.\" —Leon S. Kennedy</span>"
+    },
+    {
+        "id": "bloodwarden",
+        "displayName": "Blood Warden",
+        "side": "killer",
+        "teachableLevel": 40,
+        "characterIndex": 268435465,
+        "iconPath": "UI/Icons/Perks/England/iconPerks_bloodWarden.png",
+        "description": "As soon as an exit gate is opened, Blood Warden is activated. The auras of any Survivors located within Exit areas are revealed to you. <br>Once per match, hooking a Survivor while Blood Warden is active calls upon The Entity to block both Exits for all Survivors for <span class=\"Highlight1\"><span class=\"yellow\">30</span>/<span class=\"green\">40</span>/<span class=\"purple\">60</span> seconds</span>."
+    },
+    {
+        "id": "fireup",
+        "displayName": "Fire Up",
+        "side": "killer",
+        "teachableLevel": 30,
+        "characterIndex": 268435465,
+        "iconPath": "UI/Icons/Perks/England/iconPerks_fireUp.png",
+        "description": "The increased pressure of losing your prey fills you with anger and gives you unsuspected motivation.<br><br>Each time the Survivors complete repairs on a generator, Fire Up grows in power.<br><li>For each generator completed, gain a <span class=\"Highlight1\"><span class=\"yellow\">3</span>/<span class=\"green\">3.5</span>/<span class=\"purple\">4</span>%</span> stackable buff that grants a speed bonus to picking up, dropping, vaulting, damaging generators, and breaking pallets and breakable walls for the remainder of the trial.</li>"
+    },
+    {
+        "id": "pharmacy",
+        "displayName": "Pharmacy",
+        "side": "survivor",
+        "teachableLevel": 35,
+        "characterIndex": 11,
+        "iconPath": "UI/Icons/Perks/England/iconPerks_pharmacy.png",
+        "description": "You have a knack for finding medicine. When injured, <i>Pharmacy</i> activates.<br><br>While active:<br><li>Unlocking chests is <span class=\"Highlight1\"><span class=\"yellow\">40</span>/<span class=\"green\">60</span>/<span class=\"purple\">80</span>%</span> faster.</li><li>The hearing distance for noises from unlocking chests are reduced by <span class=\"Highlight2\">8 meters</span>.</li><li><i>Pharmacy</i> guarantees an Emergency Med-kit upon completing the interaction.</li><br>"
+    },
+    {
+        "id": "rememberme",
+        "displayName": "Remember Me",
+        "side": "killer",
+        "teachableLevel": 35,
+        "characterIndex": 268435465,
+        "iconPath": "UI/Icons/Perks/England/iconPerks_rememberMe.png",
+        "description": "You become <b>obsessed</b> with one Survivor. Each time your Obsession loses a health state, you increase the opening time of the exit gates by <span class=\"Highlight1\"><span class=\"yellow\">4</span> seconds</span> up to a maximum of <span class=\"Highlight2\"><span class=\"yellow\">8</span>/<span class=\"green\">12</span>/<span class=\"purple\">16</span> additional seconds</span>.<br>The Obsession is not affected by <i>Remember Me.</i><br><li><i>The Killer can only be <b>obsessed</b> with one Survivor at a time.</i></li>"
+    },
+    {
+        "id": "vigil",
+        "displayName": "Vigil",
+        "side": "survivor",
+        "teachableLevel": 40,
+        "characterIndex": 11,
+        "iconPath": "UI/Icons/Perks/England/iconPerks_vigil.png",
+        "description": "You look over your friends even in dire situations. You and your allies within a <span class=\"Highlight1\"><span class=\"yellow\">8</span> meter</span> range recover from the <b>Blindness, Broken, Exhausted, Exposed, Hemorrhage, Hindered</b> and <b>Oblivious</b> status effects <span class=\"Highlight2\"><span class=\"yellow\">20</span>/<span class=\"green\">25</span>/<span class=\"purple\">30</span>%</span> faster. Once out of range, this effect persists for <span class=\"Highlight4\"><span class=\"yellow\">15</span> seconds</span>.<br>"
+    },
+    {
+        "id": "wakeup",
+        "displayName": "Wake Up!",
+        "side": "survivor",
+        "teachableLevel": 30,
+        "characterIndex": 11,
+        "iconPath": "UI/Icons/Perks/England/iconPerks_wakeUp.png",
+        "description": "Unlocks potential in one's aura reading ability. Once all generators are powered, exit gates are revealed to you within a <span class=\"Highlight1\"><span class=\"yellow\">128</span> meter</span> range. While opening the exit gates, reveal your aura to other Survivors up to <span class=\"Highlight2\"><span class=\"yellow\">128</span> meters</span>.<br>While <i>Wake Up!</i> is active, you open the exit gates <span class=\"Highlight3\"><span class=\"yellow\">15</span>/<span class=\"green\">20</span>/<span class=\"purple\">25</span>%</span> faster."
+    },
+    {
+        "id": "hangmanstrick",
+        "displayName": "Hangman's Trick",
+        "side": "killer",
+        "teachableLevel": 30,
+        "characterIndex": 268435466,
+        "iconPath": "UI/Icons/Perks/Finland/iconPerks_hangmansTrick.png",
+        "description": "Your ingenious modifications to hooks alert you of tampering.<br><li>Gain a notification when a Survivor begins sabotaging a hook.</li><li>While carrying a Survivor, see the aura of any Survivor within <span class=\"Highlight1\"><span class=\"yellow\">2</span>/<span class=\"green\">4</span>/<span class=\"purple\">6</span> meters</span> of a hook.</li><br><span class=\"FlavorText\">\"No excuses, no equivocations… No crying.\" -Amanda Young</span>"
+    },
+    {
+        "id": "surveillance",
+        "displayName": "Surveillance",
+        "side": "killer",
+        "teachableLevel": 35,
+        "characterIndex": 268435466,
+        "iconPath": "UI/Icons/Perks/Finland/iconPerks_surveillance.png",
+        "description": "Unlocks potential in one's aura reading ability. Any regressing generator will be highlighted by a white aura. If the regression is interrupted on a generator, it will be highlighted by a yellow aura for <span class=\"Highlight1\"><span class=\"yellow\">8</span>/<span class=\"green\">12</span>/<span class=\"purple\">16</span> seconds</span>.<br>Noises created by generator repairs are audible at an additional <span class=\"Highlight2\"><span class=\"yellow\">8</span> meters</span>.<br><br><span class=\"FlavorText\">\"Are you gonna behave?\" -Amanda Young</span>"
+    },
+    {
+        "id": "makeyourchoice",
+        "displayName": "Make your Choice",
+        "side": "killer",
+        "teachableLevel": 40,
+        "characterIndex": 268435466,
+        "iconPath": "UI/Icons/Perks/Finland/iconPerks_makeYourChoice.png",
+        "description": "When a Survivor rescues another from a hook at least <span class=\"Highlight1\"><span class=\"yellow\">32</span> meters</span> away from you, <i>Make your Choice</i> causes the Survivor to scream and applies the <b><i>Exposed</i></b> status effect to them for <span class=\"Highlight2\"><span class=\"yellow\">40</span>/<span class=\"green\">50</span>/<span class=\"purple\">60</span> seconds</span>.<br><i>Make your Choice</i> has a cooldown of <span class=\"Highlight3\"><span class=\"yellow\">40</span>/<span class=\"green\">50</span>/<span class=\"purple\">60</span> seconds</span>.<br><br><span class=\"ReminderText\">Exposed Survivors will be downed by basic attacks even if uninjured.</span><br><br><span class=\"FlavorText\">\"You'd be surprised what tools can save a life.\" -Amanda Young</span>"
+    },
+    {
+        "id": "tenacity",
+        "displayName": "Tenacity",
+        "side": "survivor",
+        "teachableLevel": 30,
+        "characterIndex": 12,
+        "iconPath": "UI/Icons/Perks/Finland/iconPerks_tenacity.png",
+        "description": "There is nothing stopping you. <br><br>Your ferocious tenacity in dire situations allows you to crawl <span class=\"Highlight1\"><span class=\"yellow\">30</span>/<span class=\"green\">40</span>/<span class=\"purple\">50</span>%</span> faster and recover at the same time. Grunts of pain while in the dying state are reduced by <span class=\"Highlight2\">75%</span>.<br><br><span class=\"FlavorText\">\"What the hell is this? I'm taking this bastard down!\" -Detective David Tapp</span> "
+    },
+    {
+        "id": "detectiveshunch",
+        "displayName": "Detective's Hunch",
+        "side": "survivor",
+        "teachableLevel": 35,
+        "characterIndex": 12,
+        "iconPath": "UI/Icons/Perks/Finland/iconPerks_detectivesHunch.png",
+        "description": "Unlocks potential in one's aura reading ability. When a generator is completed, the auras of generators, chests and Totems within <span class=\"Highlight1\"><span class=\"yellow\">32</span>/<span class=\"green\">48</span>/<span class=\"purple\">64</span> meters</span> are revealed to you for <span class=\"Highlight2\"><span class=\"yellow\">10</span> seconds</span>.<br>If you are holding a Map that can track objectives, generators, chests and Totems revealed by <i>Detective's Hunch</i> are added to the Map.<br><br><span class=\"FlavorText\">\"Are you able to tell us where you were last night?\" -Detective David Tapp</span>"
+    },
+    {
+        "id": "stakeout",
+        "displayName": "Stake Out",
+        "side": "survivor",
+        "teachableLevel": 40,
+        "characterIndex": 12,
+        "iconPath": "UI/Icons/Perks/Finland/iconPerks_stakeOut.png",
+        "description": "Getting close to the Killer fills you with determination. For each <span class=\"Highlight1\"><span class=\"yellow\">15</span> seconds</span> you are standing within the Killer Terror Radius and not in a chase, you gain a token up to a maximum of <span class=\"Highlight2\"><span class=\"yellow\">2</span>/<span class=\"green\">3</span>/<span class=\"purple\">4</span> tokens</span>.<br>When <i>Stake Out</i> has at least <b>1 token</b>, good Skill Checks are considered great Skill Checks, consume <b>1 token</b>, and grant an additional <span class=\"Highlight3\">1%</span> bonus to generator repair progress.<br><br><span class=\"FlavorText\">\"I had you, I had you on your knees. You're runnin' scared because we had you. We're gonna close this case!\" -Detective David Tapp</span>"
+    },
+    {
+        "id": "k25p01",
+        "displayName": "Deadlock",
+        "side": "killer",
+        "teachableLevel": 30,
+        "characterIndex": 268435480,
+        "iconPath": "UI/Icons/Perks/Gemini/iconPerks_Deadlock.png",
+        "description": "You induce mental suffering by crushing any hope of escape.<br><br>After a generator is repaired, The Entity blocks the generator with the most progress for <span class=\"Highlight1\"><span class=\"yellow\">20</span>/<span class=\"green\">25</span>/<span class=\"purple\">30</span> seconds</span>. You see its white aura during this time.<br><br><span class=\"FlavorText\">\"Nobody escapes us.\" —Pinhead</span>"
+    },
+    {
+        "id": "k25p02",
+        "displayName": "Hex: Plaything",
+        "side": "killer",
+        "teachableLevel": 35,
+        "characterIndex": 268435480,
+        "iconPath": "UI/Icons/Perks/Gemini/iconPerks_HexPlaything.png",
+        "description": "A Hex that toys with a victim's suffering.<br><br>The first time you hook a Survivor, they become Cursed and <i>Hex: Plaything</i> activates on a Dull Totem. The Cursed Survivor suffers from the <b>Oblivious</b> status effect until <i>Hex: Plaything</i> is cleansed.<br><br><i>Hex: Plaything</i>'s totem aura is revealed to the Cursed Survivor when within <span class=\"Highlight1\"><span class=\"yellow\">24</span>/<span class=\"green\">20</span>/<span class=\"purple\">16</span> meters</span> of it. For the first <span class=\"Highlight2\"><span class=\"yellow\">90</span> seconds</span>, only the Cursed Survivor can cleanse the totem.<br><br><span class=\"ReminderText\">Oblivious prevents Survivors from hearing or being affected by the Killer's Terror Radius.</span><br><br><span class=\"FlavorText\">\"We came. Now you must come with us. Taste our pleasures.\" —Pinhead</span>"
+    },
+    {
+        "id": "k25p03",
+        "displayName": "Scourge Hook: Gift of Pain",
+        "side": "killer",
+        "teachableLevel": 40,
+        "characterIndex": 268435480,
+        "iconPath": "UI/Icons/Perks/Gemini/iconPerks_ScourgeHookGiftOfPain.png",
+        "description": "You are the bringer of sweet pain.<br><br>At the start of the trial, up to <span class=\"Highlight1\"><span class=\"yellow\">4</span></span> random hooks are changed into scourge hooks. You see their auras in white.<br><br>When a Survivor is unhooked from a scourge hook, they suffer from the <b>Hemorrhage</b> and <b>Mangled</b> status effect until fully healed. The first time the Survivor is healed, they suffer a <span class=\"Highlight2\"><span class=\"yellow\">10</span>/<span class=\"green\">13</span>/<span class=\"purple\">16</span>%</span> speed penalty to healing and repairing actions until injured again.<br><br><span class=\"ReminderText\">Hemorrhage regresses healing progress when not healing, and increases blood trails left by injured Survivors.</span><br><br><span class=\"ReminderText\">Mangled increases time required to heal by 25% and lasts until fully healed.</span><br><br><span class=\"FlavorText\">\"We'll tear your soul apart.\" —Pinhead</span>"
+    },
+    {
+        "id": "coulrophobia",
+        "displayName": "Coulrophobia",
+        "side": "killer",
+        "teachableLevel": 35,
+        "characterIndex": 268435467,
+        "iconPath": "UI/Icons/Perks/Guam/iconPerks_coulrophobia.png",
+        "description": "Even those without a fear of clowns know to be terrified of you.<br><br>Survivors within your Terror Radius have a <span class=\"Highlight1\"><span class=\"yellow\">30</span>/<span class=\"green\">40</span>/<span class=\"purple\">50</span>%</span> penalty to healing progression speed, and healing Skill Checks move <span class=\"Highlight2\">50%</span> faster.<br>"
+    },
+    {
+        "id": "pop_goes_the_weasel",
+        "displayName": "Pop Goes the Weasel",
+        "side": "killer",
+        "teachableLevel": 40,
+        "characterIndex": 268435467,
+        "iconPath": "UI/Icons/Perks/Guam/iconPerks_popGoesTheWeasel.png",
+        "description": "A deep bond with The Entity unlocks great strength. <br><br>After hooking a Survivor, the next generator you damage instantly loses <span class=\"Highlight1\"><span class=\"yellow\">20</span>%</span> of its current progress. Normal generator regression applies after the Damage Generator action.<br><i>Pop Goes the Weasel</i> is active for <span class=\"Highlight2\"><span class=\"yellow\">35</span>/<span class=\"green\">40</span>/<span class=\"purple\">45</span> seconds</span> after the Survivor is hooked."
+    },
+    {
+        "id": "bamboozle",
+        "displayName": "Bamboozle",
+        "side": "killer",
+        "teachableLevel": 30,
+        "characterIndex": 268435467,
+        "iconPath": "UI/Icons/Perks/Guam/iconPerks_bamboozle.png",
+        "description": "Your vault speed is <span class=\"Highlight1\"><span class=\"yellow\">5</span>/<span class=\"green\">10</span>/<span class=\"purple\">15</span>%</span> faster.<br>Performing a vault action calls upon The Entity to block that vault location for <span class=\"Highlight1\"><span class=\"yellow\">8</span>/<span class=\"green\">12</span>/<span class=\"purple\">16</span> seconds</span>.<br>Only 1 vault location may be blocked in this way at any time. The vault location is blocked only for Survivors. <br>Does not affect pallets."
+    },
+    {
+        "id": "windowsofopportunity",
+        "displayName": "Windows of Opportunity",
+        "side": "survivor",
+        "teachableLevel": 35,
+        "characterIndex": 10,
+        "iconPath": "UI/Icons/Perks/Kate/iconPerks_windowsOfOpportunity.png",
+        "description": "Unlocks potential in one's aura reading ability. Auras of pallets, breakable walls, and vault locations are revealed to you when within a <span class=\"Highlight1\"><span class=\"yellow\">24</span>/<span class=\"green\">28</span>/<span class=\"purple\">32</span> meter</span> range.<br><br><span class=\"FlavorText\">“Rise and shine, work hard, carve out your name, <br>Take aim, pull the trigger, hit the bulls eye for fame, <br>Know the value of faith, an’ family, and don’t you complain,<br>Open wide, your windows of opportunity.”<br>-Kate Denson's \"Windows of Opportunity\"</span>"
+    },
+    {
+        "id": "boilover",
+        "displayName": "Boil Over",
+        "side": "survivor",
+        "teachableLevel": 40,
+        "characterIndex": 10,
+        "iconPath": "UI/Icons/Perks/Kate/iconPerks_boilOver.png",
+        "description": "You are a battler and do everything to escape a foe's grasp. Your struggling effects on The Killer are increased by <span class=\"Highlight1\"><span class=\"yellow\">60</span>/<span class=\"green\">70</span>/<span class=\"purple\">80</span>%</span>. <br>You obscure The Killer's ability to see hook auras within <span class=\"Highlight1\"><span class=\"yellow\">16</span> meters</span>.<br>You gain <span class=\"Highlight1\"><span class=\"yellow\">33</span> % of current wiggling progress</span> when the Killer drops from great heights.<br><br><span class=\"FlavorText\">“Buck and Wild,<br> Swing to be free, <br>Your hands just can’t keep ahold of me.”<br>-Kate Denson’s “Boil Over”</span>"
+    },
+    {
+        "id": "dance_with_me",
+        "displayName": "Dance With Me",
+        "side": "survivor",
+        "teachableLevel": 30,
+        "characterIndex": 10,
+        "iconPath": "UI/Icons/Perks/Kate/iconPerks_danceWithMe.png",
+        "description": "When performing a fast vault or leaving a locker in a sprint, you leave no scratch marks for <span class=\"Highlight1\"><span class=\"yellow\">3</span> seconds</span>.<br><i>Dance With Me</i> has a cooldown of <span class=\"Highlight4\"><span class=\"yellow\">60</span>/<span class=\"green\">50</span>/<span class=\"purple\">40</span> seconds</span>.<br><br><span class=\"FlavorText\">“Another show’s off and runnin’, <br>Dance with me, cuz there’s a storm a comin’, <br>Follow my boots, try to keep up,<br>Dance with me, until sun up.”<br>-Kate Denson's \"Dance With Me\"</span>"
+    },
+    {
+        "id": "diversion",
+        "displayName": "Diversion",
+        "side": "survivor",
+        "teachableLevel": 30,
+        "characterIndex": 13,
+        "iconPath": "UI/Icons/Perks/Haiti/iconPerks_diversion.png",
+        "description": "Activatable perk.<br>Being within the Killer's Terror Radius while not in a chase for <span class=\"Highlight1\"><span class=\"yellow\">40</span>/<span class=\"green\">35</span>/<span class=\"purple\">30</span> seconds</span> activates <i>Diversion</i>.<br><li>Once <i>Diversion</i> is activated, press the <i>Active Ability</i> button while crouched and motionless to throw a pebble, which creates a distraction for The Killer at a distance of <span class=\"Highlight2\">20 meters</span>.</li><br><li>The perk timer resets once the ability has been activated.</li><br>The distraction consists of:<br><li>A loud noise notification</li><li>Scratch marks</li><br><span class=\"FlavorText\">“There’s what is easy and then there’s what is right. If you confuse the two, there’s no telling what you become.” -Adam Francis</span>"
+    },
+    {
+        "id": "deliverance",
+        "displayName": "Deliverance",
+        "side": "survivor",
+        "teachableLevel": 35,
+        "characterIndex": 13,
+        "iconPath": "UI/Icons/Perks/Haiti/iconPerks_deliverance.png",
+        "description": "After performing a safe hook rescue on another Survivor, <i>Deliverance</i> activates.<br>You now have a <span class=\"Highlight1\">100%</span> chance of unhooking yourself during the escape attempt.<br>A successful <i>Deliverance</i> from the hook triggers the <span class=\"Highlight2\">Broken</span> status effect for <span class=\"Highlight3\"><span class=\"yellow\">100</span>/<span class=\"green\">80</span>/<span class=\"purple\">60</span> seconds</span>.<br><br><span class=\"FlavorText\">“I was raised by a strict man who taught me how to make the best of a bad situation.” -Adam Francis</span>"
+    },
+    {
+        "id": "autodidact",
+        "displayName": "Autodidact",
+        "side": "survivor",
+        "teachableLevel": 40,
+        "characterIndex": 13,
+        "iconPath": "UI/Icons/Perks/Haiti/iconPerks_autodidact.png",
+        "description": "You start the trial with a <span class=\"Highlight1\">-<span class=\"yellow\">25</span>%</span> progress penalty for Skill Checks to heal Survivors.<br>For every successful Skill Check while healing a Survivor, you receive a token up to a maximum of <span class=\"Highlight2\"><span class=\"yellow\">3</span>/<span class=\"green\">4</span>/<span class=\"purple\">5</span> tokens</span>.<br>Each token grants you a <span class=\"Highlight1\">+<span class=\"yellow\">15</span>%</span> progress bonus.<br>Great Skill Checks cannot be performed while using <i>Autodidact</i>.<li><i>Autodidact</i> is not active when using a Med Kit to heal.</li><br><span class=\"FlavorText\">“There’s no limit to what you can achieve, as long as you back it up with hard work.” -Adam Francis</span>"
+    },
+    {
+        "id": "spiritfury",
+        "displayName": "Spirit Fury",
+        "side": "killer",
+        "teachableLevel": 30,
+        "characterIndex": 268435468,
+        "iconPath": "UI/Icons/Perks/Haiti/iconPerks_spiritFury.png",
+        "description": "Each pallet you break magnifies the wrath of The Entity.<br><br>After breaking <span class=\"Highlight1\"><span class=\"yellow\">4</span>/<span class=\"green\">3</span>/<span class=\"purple\">2</span> pallets</span>, the next time you are stunned by a pallet, The Entity will instantly break the pallet.<br>You still suffer from the stun effect penalty.<br><br><span class=\"FlavorText\">“Fury is her blood.”</span>"
+    },
+    {
+        "id": "hex_hauntedground",
+        "displayName": "Hex: Haunted Ground",
+        "side": "killer",
+        "teachableLevel": 35,
+        "characterIndex": 268435468,
+        "iconPath": "UI/Icons/Perks/Haiti/iconPerks_hauntedGround.png",
+        "description": "Two trapped Hex Totems will spawn in the trial.<br><br>When either one of the two trapped Hex Totems is cleansed by a Survivor, all Survivors suffer from the <b>Exposed</b> status effect for <span class=\"Highlight1\"><span class=\"yellow\">40</span>/<span class=\"green\">50</span>/<span class=\"purple\">60</span> seconds</span>. <br>The remaining trapped Hex Totem immediately becomes a Dull Totem.<br><br><span class=\"ReminderText\">Exposed Survivors will be downed by basic attacks even if uninjured.</span><br><br><span class=\"FlavorText\">“Her home became profane.”</span>"
+    },
+    {
+        "id": "rancor",
+        "displayName": "Rancor",
+        "side": "killer",
+        "teachableLevel": 40,
+        "characterIndex": 268435468,
+        "iconPath": "UI/Icons/Perks/Haiti/iconPerks_hatred.png",
+        "description": "You become <b>obsessed</b> with one Survivor.<br>Each time a generator is completed, your Obsession sees your aura for <span class=\"Highlight1\"> <span class=\"yellow\">5</span>/<span class=\"green\">4</span>/<span class=\"purple\">3</span> seconds</span>.<br>Each time a generator is completed, all Survivors' locations are revealed to you for <span class=\"Highlight2\"> <span class=\"yellow\">3</span> seconds</span>.<br>Once all generators are completed, the Obsession has the <span class=\"Highlight3\">Exposed </span>status effect and you can <span class=\"Highlight3\">kill</span> your Obsession.<br><li><i>The Killer can only be <b>obsessed</b> with one Survivor at a time.</i></li>"
+    },
+    {
+        "id": "s28p01",
+        "displayName": "Clairvoyance",
+        "side": "survivor",
+        "teachableLevel": 30,
+        "characterIndex": 27,
+        "iconPath": "UI/Icons/Perks/Hubble/iconPerks_Clairvoyance.png",
+        "description": "There is an intrinsic energy in you that sees beyond your vision.<br><br><i>Clairvoyance</i> activates whenever you cleanse a Totem.<br><br>When empty-handed, hold the <i>Ability button</i> to unlock your full aura-reading potential. For up to <span class=\"Highlight1\"><span class=\"yellow\">8</span>/<span class=\"green\">9</span>/<span class=\"purple\">10</span> seconds</span>, you see the auras of exit gate switches, generators, hooks, chests and the Hatch within a <span class=\"Highlight2\"><span class=\"yellow\">64</span> meter</span> range.<br><br><span class=\"FlavorText\">\"Does anyone else see that? Just me?\" —Mikaela Reid</span>"
+    },
+    {
+        "id": "s28p02",
+        "displayName": "Boon: Circle of Healing",
+        "side": "survivor",
+        "teachableLevel": 35,
+        "characterIndex": 27,
+        "iconPath": "UI/Icons/Perks/Hubble/iconPerks_BoonCircleOfHealing.png",
+        "description": "A boon that offers comfort amidst the terror.<br><br>Press and hold the <i>Ability button</i> near a Dull or Hex Totem to bless it and create a Boon Totem. Soft chimes ring out in a <span class=\"Highlight1\"><span class=\"yellow\">24</span> meter</span> range.<br><br>Any Survivors within the Boon Totem's range gain a <span class=\"Highlight2\"><span class=\"yellow\">40</span>/<span class=\"green\">45</span>/<span class=\"purple\">50</span>%</span> healing speed bonus and can heal themselves without needing a Med-Kit. Self-healing is done at <span class=\"Highlight3\">50%</span> normal speed.<br><br>You can only bless one Totem at a time. All equipped boon perks are active on your Boon Totem.<br><br><span class=\"FlavorText\">\"Try this, it’s better than anything you’ll find in a pharmacy.\" —Mikaela Reid</span>"
+    },
+    {
+        "id": "s28p03",
+        "displayName": "Boon: Shadow Step",
+        "side": "survivor",
+        "teachableLevel": 40,
+        "characterIndex": 27,
+        "iconPath": "UI/Icons/Perks/Hubble/iconPerks_BoonShadowStep.png",
+        "description": "A boon that conceals the truth.<br><br>Press and hold the <i>Ability button</i> near a Dull or Hex Totem to bless it and create a Boon Totem. Soft chimes ring out in a <span class=\"Highlight1\"><span class=\"yellow\">24</span> meter</span> range.<br><br>Any Survivors within the Boon Totem’s range will have their scratch marks and auras hidden to the Killer. This effect lingers for <span class=\"Highlight2\"><span class=\"yellow\">2</span>/<span class=\"green\">3</span>/<span class=\"purple\">4</span> seconds</span> after leaving the Boon Totem’s range.<br><br>You can only bless one Totem at a time. All equipped boon perks are active on your Boon Totem.<br><br><span class=\"FlavorText\">\"Stick to the shadows and cover your tracks.\" —Mikaela Reid</span>"
+    },
+    {
+        "id": "k26p01",
+        "displayName": "Grim Embrace",
+        "side": "killer",
+        "teachableLevel": 30,
+        "characterIndex": 268435481,
+        "iconPath": "UI/Icons/Perks/Ion/T_iconPerks_grimEmbrace.png",
+        "description": "Your act of servitude to The Entity has not gone unnoticed.<br><br>Each time a Survivor is hooked for the first time, you gain a token. Upon reaching <span class=\"Highlight1\"><span class=\"yellow\">4</span> tokens</span> <i>Grim Embrace</i> activates.<br><br>The Entity blocks all generators for <span class=\"Highlight2\"><span class=\"yellow\">30</span>/<span class=\"green\">35</span>/<span class=\"purple\">40</span> seconds</span>. The Obsession's aura is revealed to you for <span class=\"Highlight3\"><span class=\"yellow\">5</span> seconds</span>.<br><br><span class=\"ReminderText>\"The Killer can only be <b>obsessed</b> with one Survivor at a time.</span><br><br><span class=\"FlavorText\">\"Are we nothing but prisoners to our sorrow?\"—Carmina Mora</span>"
+    },
+    {
+        "id": "k26p02",
+        "displayName": "Scourge Hook: Pain Resonance",
+        "side": "killer",
+        "teachableLevel": 35,
+        "characterIndex": 268435481,
+        "iconPath": "UI/Icons/Perks/Ion/T_iconPerks_painResonance.png",
+        "description": "Overwhelming pain reverberates outwards into chaos.<br><br>At the start of the trial, up to <span class=\"Highlight1\"><span class=\"yellow\">4</span></span> random hooks are changed into scourge hooks. You see their auras in white.<br><br>Any time a Survivor is hooked on a scourge hook, the generator with the most progress explodes, instantly losing <span class=\"Highlight2\"><span class=\"yellow\">9</span>/<span class=\"green\">12</span>/<span class=\"purple\">15</span>%</span> progress, and will start to regress.<br><br><span class=\"FlavorText\">\"The pain spills beyond flesh/darkness staining the horizon.\" —Girl in the Shadow by Carmina Mora</span>"
+    },
+    {
+        "id": "k26p03",
+        "displayName": "Hex: Pentimento",
+        "side": "killer",
+        "teachableLevel": 40,
+        "characterIndex": 268435481,
+        "iconPath": "UI/Icons/Perks/Ion/T_iconPerks_hexPentimento.png",
+        "description": "You reveal the true power of the Totems, hidden within their remains.<br><br>You see the aura of destroyed Totems. You can perform a ritual on a destroyed Totem to rekindle it as a Hex Totem for Hex: Pentimento. For each Hex Totem active at the same time, Hex: Pentimento gains an additional effect.<br><br><li>1 Hex Totem: Decreases Survivors' repair speed by <span class=\"Highlight1\"><span class=\"yellow\">20</span>/<span class=\"green\">25</span>/<span class=\"purple\">30</span>%</span>.</li><li>2 Hex Totems: Decreases Survivors' healing speed by <span class=\"Highlight2\"><span class=\"yellow\">20</span>/<span class=\"green\">25</span>/<span class=\"purple\">30</span>%</span>.</li><li>3 Hex Totems: Decreases Survivors' recovery speed from being downed by <span class=\"Highlight3\"><span class=\"yellow\">20</span>/<span class=\"green\">25</span>/<span class=\"purple\">30</span>%</span>.</li><li>4 Hex Totems: Decreases Survivors' exit gate opening speed by <span class=\"Highlight4\"><span class=\"yellow\">20</span>/<span class=\"green\">25</span>/<span class=\"purple\">30</span>%</span>.</li><li>5 Hex Totems: All Totems are blocked by the Entity.</li><br>When a previously rekindled Hex Totem is removed by any means, its remains are consumed by The Entity and it cannot be rekindled again.<br><br><span class=\"FlavorText\">\"Though a pentimento is an inherently concealed piece of art, there is something to be said of the desire to discover that which is beyond.\" —A Guide to Art & Process (1961)</span>"
+    },
+    {
+        "id": "s29p01",
+        "displayName": "Overcome",
+        "side": "survivor",
+        "teachableLevel": 30,
+        "characterIndex": 28,
+        "iconPath": "UI/Icons/Perks/Ion/T_iconPerks_Overcome.png",
+        "description": "You've calculated how much energy you can risk to expend.<br><br>When you are injured, you retain the movement speed bonus for <span class=\"Highlight1\"><span class=\"yellow\">2</span> seconds</span> longer.<br><br><i>Overcome</i> causes the <b>Exhausted</b> status effect for <span class=\"Highlight2\"><span class=\"yellow\">60</span>/<span class=\"green\">50</span>/<span class=\"purple\">40</span> seconds</span>.<br><br><i>Overcome</i> cannot be used when Exhausted.<br><br><span class=\"FlavorText\">\"After careful analysis, we're getting the hell out of here!\" —Jonah Vasquez</span>"
+    },
+    {
+        "id": "s29p02",
+        "displayName": "Corrective Action",
+        "side": "survivor",
+        "teachableLevel": 35,
+        "characterIndex": 28,
+        "iconPath": "UI/Icons/Perks/Ion/T_iconPerks_CorrectiveAction.png",
+        "description": "You quickly analyze problems and correct other's work when they make a mistake.<br><br>You start the trial with <span class=\"Highlight1\"><span class=\"yellow\">1</span>/<span class=\"green\">2</span>/<span class=\"purple\">3</span> token(s)</span> and gain a token, up to a maximum of <span class=\"Highlight2\"><span class=\"yellow\">5</span></span>, for every great Skill Check.<br><br>When a Survivor fails a Normal Skill Check while cooperating with you, 1 token is consumed and their failed Skill Check becomes a good Skill Check.<br><br><span class=\"FlavorText\">\"Can't hurt to have another set of eyes on the problem.\" —Jonah Vasquez</span>"
+    },
+    {
+        "id": "s29p03",
+        "displayName": "Boon: Exponential",
+        "side": "survivor",
+        "teachableLevel": 40,
+        "characterIndex": 28,
+        "iconPath": "UI/Icons/Perks/Ion/T_iconPerks_BoonExponential.png",
+        "description": "When it seems like your number is up, you consider ways to recalculate the odds.<br><br>Press and hold the <i>Ability button</i> near a Dull or Hex Totem to bless it and create a Boon Totem. Soft chimes ring out in a <span class=\"Highlight1\"><span class=\"yellow\">24</span> meter</span> range.<br><br>All Survivors within the Boon Totem's range recover <span class=\"Highlight2\"><span class=\"yellow\">90</span>/<span class=\"green\">95</span>/<span class=\"purple\">100</span>%</span> faster and can completely recover from the dying state.<br><br>You can only bless one Totem at a time. All equipped boon perks are active on your Boon Totem.<br><br><span class=\"FlavorText\">\"It's not our time to die... probably.\" —Jonah Vasquez</span>"
+    },
+    {
+        "id": "discordance",
+        "displayName": "Discordance",
+        "side": "killer",
+        "teachableLevel": 30,
+        "characterIndex": 268435469,
+        "iconPath": "UI/Icons/Perks/Kenya/iconPerks_discordance.png",
+        "description": "Any generator within a range of <span class=\"Highlight1\"><span class=\"yellow\">64</span>/<span class=\"green\">96</span>/<span class=\"purple\">128</span> meters</span> that is being repaired by two or more Survivors is marked by a yellow aura. When the generator is first highlighted, Discordance triggers a loud noise notification on the generator. After the generator is no longer within range or is no longer being repaired by two or more Survivors, the aura remains for another <span class=\"Highlight2\">4 seconds</span>.<br><br><span class=\"FlavorText\">\"Smartasses get killed. We always see to that.\" -The Legion</span>"
+    },
+    {
+        "id": "madgrit",
+        "displayName": "Mad Grit",
+        "side": "killer",
+        "teachableLevel": 35,
+        "characterIndex": 268435469,
+        "iconPath": "UI/Icons/Perks/Kenya/iconPerks_madGrit.png",
+        "description": "While carrying a Survivor, you suffer no cooldown for missed <i>basic attacks</i> and successfully hitting another Survivor with a <i>basic attack</i> will pause the carried Survivor’s wiggle timer for <span class=\"Highlight1\"><span class=\"yellow\">2</span>/<span class=\"green\">3</span>/<span class=\"purple\">4</span> seconds</span>.<br><br><span class=\"FlavorText\">“There’s no getting out of this now. We’re too good at it.” -The Legion</span>"
+    },
+    {
+        "id": "ironmaiden",
+        "displayName": "Iron Maiden",
+        "side": "killer",
+        "teachableLevel": 40,
+        "characterIndex": 268435469,
+        "iconPath": "UI/Icons/Perks/Kenya/iconPerks_ironMaiden.png",
+        "description": "You open lockers <span class=\"Highlight1\"><span class=\"yellow\">30</span>/<span class=\"green\">40</span>/<span class=\"purple\">50</span>%</span> faster.<br><br>Survivors who exit lockers suffer from the <b>Exposed</b> status effect for <span class=\"Highlight1\"><span class=\"yellow\">30</span> seconds</span> and scream, revealing their location for <span class=\"Highlight1\"><span class=\"yellow\">4</span> seconds</span>.<br><br><span class=\"ReminderText\">Exposed Survivors will be downed by basic attacks even if uninjured.</span><br><br><span class=\"FlavorText\">“This is no place for cowards.” -The Legion</span>"
+    },
+    {
+        "id": "breakdown",
+        "displayName": "Breakdown",
+        "side": "survivor",
+        "teachableLevel": 30,
+        "characterIndex": 14,
+        "iconPath": "UI/Icons/Perks/Kenya/iconPerks_breakdown.png",
+        "description": "Any time you are removed from a hook (escaped or saved), the hook breaks and the Killer's aura is shown to you for <span class=\"Highlight1\"><span class=\"yellow\">4</span>/<span class=\"green\">5</span>/<span class=\"purple\">6</span> seconds</span>. A hook broken by this perk takes <span class=\"Highlight2\">180 seconds</span> to respawn.<br><br><span class=\"FlavorText\">“Charge from the Belly of the Beast.”<br>Here's a sketch/painting on a piece of wood I saw by the side of the road. I felt like it got a story to tell. And it didn’t waste its second chance. –Jeff, ink and oil wash on slice of wood, 12x16</span>"
+    },
+    {
+        "id": "aftercare",
+        "displayName": "Aftercare",
+        "side": "survivor",
+        "teachableLevel": 35,
+        "characterIndex": 14,
+        "iconPath": "UI/Icons/Perks/Kenya/iconPerks_aftercare.png",
+        "description": "Unlocks potential in one's aura reading ability.<br><br>You see the aura of every Survivor that:<br><li>You rescue from a hook, or rescues you from a hook;</li><li>You complete a healing action on, or completes a healing action on you.</li><br>They also see your aura.<br><br>This occurs for up to <span class=\"Highlight1\"><span class=\"yellow\">1</span>/<span class=\"green\">2</span>/<span class=\"purple\">3</span> Survivors</span>. All effects of <i>Aftercare</i> are reset when you are hooked by The Killer.<br><br><span class=\"FlavorText\">“A Mercy that Rips the Storm.”<br>Oil work to honor my best buddies who happen to be the best musicians I know. Their first album is still my favorite. It got me through a dark time in my life. –Jeff, oil on canvas, 16x16</span>"
+    },
+    {
+        "id": "distortion",
+        "displayName": "Distortion",
+        "side": "survivor",
+        "teachableLevel": 40,
+        "characterIndex": 14,
+        "iconPath": "UI/Icons/Perks/Kenya/iconPerks_distortion.png",
+        "description": "You start the Trial with <span class=\"Highlight1\"><span class=\"yellow\">3</span> tokens</span>.<br>When your aura would be shown to the killer, the perk activates and a token is consumed.<br>For the next <span class=\"Highlight2\"><span class=\"yellow\">6</span>/<span class=\"green\">8</span>/<span class=\"purple\">10</span> seconds</span>, while the perk is activated, your aura and scratch marks will not be shown to The Killer.<br><li>This perk does not activate when you are in the dying state.</li><li>Regain a token for each <span class=\"Highlight3\">30 seconds</span> spent inside the Killer's Terror Radius.</li><li><i>Distortion</i> may not have more than <span class=\"Highlight4\"><span class=\"yellow\">3</span> tokens</span>.</li><br><span class=\"FlavorText\">“Death Fooled by the Cloak of Falcon Feathers.”<br>Sketch inspired by a few sleepless nights during winter. Exploration of Norse mythology: bravery can conceal your flaws, even when you are at your most vulnerable. –Jeff, pencil on toned paper, 12x12</span>"
+    },
+    {
+        "id": "k27p01",
+        "displayName": "Scourge Hook: Floods of Rage",
+        "side": "killer",
+        "teachableLevel": 30,
+        "characterIndex": 268435482,
+        "iconPath": "UI/Icons/Perks/Kepler/iconPerks_floodOfRage.png",
+        "description": "You form a psychic connection with The Entity and alter the rules of the trial.<br><br>At the start of the trial, up to <span class=\"Highlight1\"><span class=\"yellow\">4</span></span> random hooks are changed into scourge hooks. You see their auras in white.<br><br>When a Survivor is unhooked from a scourge hook, all other Survivors have their auras revealed for <span class=\"Highlight2\"><span class=\"yellow\">5</span>/<span class=\"green\">6</span>/<span class=\"purple\">7</span> seconds</span>."
+    },
+    {
+        "id": "k27p02",
+        "displayName": "Call of Brine",
+        "side": "killer",
+        "teachableLevel": 35,
+        "characterIndex": 268435482,
+        "iconPath": "UI/Icons/Perks/Kepler/iconPerks_callOfBrine.png",
+        "description": "Your psychic abilities influence technology in devastating ways.<br><br>After damaging a generator this perk becomes active for <span class=\"Highlight1\"><span class=\"yellow\">60</span> seconds</span>.<br><br>The generator regresses at <span class=\"Highlight2\"><span class=\"yellow\">150</span>/<span class=\"green\">175</span>/<span class=\"purple\">200</span>%</span> of the normal regression speed and you can see its aura in yellow.<br><br>Each time a Survivor completes a good Skill Check on a generator affected by this perk, you receive a loud noise notification."
+    },
+    {
+        "id": "k27p03",
+        "displayName": "Merciless Storm",
+        "side": "killer",
+        "teachableLevel": 40,
+        "characterIndex": 268435482,
+        "iconPath": "UI/Icons/Perks/Kepler/iconPerks_mercilessStorm.png",
+        "description": "Your horrible trauma is felt by everyone.<br><br>When a generator reaches <span class=\"Highlight1\"><span class=\"yellow\">90</span>%</span> progress, Survivors working on the generator will be faced with continuous Skill Checks. If they miss or stop repairing, the generator is blocked by the Entity for <span class=\"Highlight2\"><span class=\"yellow\">16</span>/<span class=\"green\">18</span>/<span class=\"purple\">20</span> seconds</span>.<br><br><i>Merciless Storm</i> can only trigger once per generator per trial."
+    },
+    {
+        "id": "s30p01",
+        "displayName": "Parental Guidance",
+        "side": "survivor",
+        "teachableLevel": 30,
+        "characterIndex": 29,
+        "iconPath": "UI/Icons/Perks/Kepler/iconPerks_parentalGuidance.png",
+        "description": "You have inherited the ability to hear the dead – and now, the dead warn you of danger.<br><br>After stunning the Killer by any means, your scratch marks, pools of blood and grunts of pain are hidden for <span class=\"Highlight1\"><span class=\"yellow\">5</span>/<span class=\"green\">6</span>/<span class=\"purple\">7</span> seconds</span>."
+    },
+    {
+        "id": "s30p02",
+        "displayName": "Empathic Connection",
+        "side": "survivor",
+        "teachableLevel": 35,
+        "characterIndex": 29,
+        "iconPath": "UI/Icons/Perks/Kepler/iconPerks_empathicConnection.png",
+        "description": "Your presence psychically projects itself to those in danger.<br><br>Whenever another Survivor is injured, they can see your aura within a range of <span class=\"Highlight1\"><span class=\"yellow\">32</span>/<span class=\"green\">64</span>/<span class=\"purple\">96</span> meters</span>.<br><br>You heal other Survivors <span class=\"Highlight2\"><span class=\"yellow\">10</span>%</span> faster."
+    },
+    {
+        "id": "s30p03",
+        "displayName": "Boon: Dark Theory",
+        "side": "survivor",
+        "teachableLevel": 40,
+        "characterIndex": 29,
+        "iconPath": "UI/Icons/Perks/Kepler/iconPerks_darkTheory.png",
+        "description": "Your obsessive study of the paranormal has given you unprecedented knowledge of other realms and planes of existence.<br><br>Press and hold the <i>Ability button</i> near a Dull or Hex Totem to bless it and create a Boon Totem. Soft chimes ring out in a <span class=\"Highlight1\"><span class=\"yellow\">24</span> meter</span> range.<br><br>Any Survivors within the Boon Totem’s range gain a <span class=\"Highlight2\"><span class=\"yellow\">2</span>%</span> <b>Haste</b> status effect. This effect lingers for <span class=\"Highlight3\"><span class=\"yellow\">2</span>/<span class=\"green\">3</span>/<span class=\"purple\">4</span> seconds</span> after leaving the Boon Totem's range.<br><br>You can only bless one Totem at a time. All equipped boon perks are active on your Boon Totem."
+    },
+    {
+        "id": "borrowedtime",
+        "displayName": "Borrowed Time",
+        "side": "survivor",
+        "teachableLevel": 35,
+        "characterIndex": 7,
+        "iconPath": "UI/Icons/Perks/L4D/iconPerks_borrowedTime.png",
+        "description": "You are fueled by unexpected energy when saving an ally from a hook.<br><br>Survivors you unhook:<br><br><li>Keep their <b>Endurance</b> status effect for an extra <span class=\"Highlight1\"><span class=\"yellow\">6</span>/<span class=\"green\">8</span>/<span class=\"purple\">10</span> seconds</span>.</li><li>Keep their movement speed bonus for an extra <span class=\"Highlight2\">10 seconds</span>.</li><br><span class=\"FlavorText\">\"Probably stings like hell, but it ain't gonna kill ya. Up and at 'em soldier. Time to move!\" — Bill Overbeck</span>"
+    },
+    {
+        "id": "selfsufficient",
+        "displayName": "Unbreakable",
+        "side": "survivor",
+        "teachableLevel": 40,
+        "characterIndex": 7,
+        "iconPath": "UI/Icons/Perks/L4D/iconPerks_unbreakable.png",
+        "description": "Past battles have taught you a thing or two about survival.<br>Grants the ability to fully recover from the dying state <b>once per trial</b>. Increases dying recovery speed by <span class=\"Highlight1\"><span class=\"yellow\">25</span>/<span class=\"green\">30</span>/<span class=\"purple\">35</span>%</span>.<br><br><span class=\"FlavorText\">\"Goddammit, I am seriously FUBAR!\" -Bill</span>"
+    },
+    {
+        "id": "leftbehind",
+        "displayName": "Left Behind",
+        "side": "survivor",
+        "teachableLevel": 30,
+        "characterIndex": 7,
+        "iconPath": "UI/Icons/Perks/L4D/iconPerks_leftBehind.png",
+        "description": "Unlocks potential in one's aura reading ability.<br>If you are the last Survivor remaining in the trial, you can see the aura of the Hatch within a <span class=\"Highlight1\"><span class=\"yellow\">24</span>/<span class=\"green\">28</span>/<span class=\"purple\">32</span> meter</span> range.<br><br><span class=\"FlavorText\">\"I'm not horseshittin' around. I'm doing this alone!\" -Bill</span>"
+    },
+    {
+        "id": "corruptintervention",
+        "displayName": "Corrupt Intervention",
+        "side": "killer",
+        "teachableLevel": 30,
+        "characterIndex": 268435470,
+        "iconPath": "UI/Icons/Perks/Mali/iconPerks_corruptIntervention.png",
+        "description": "Your prayers invoke a dark power that meddles with the Survivors’s chances of survival.<br><br><span class=\"Highlight1\"><span class=\"yellow\">3</span> generators</span> located furthest from you are blocked by The Entity for <span class=\"Highlight1\"><span class=\"yellow\">80</span>/<span class=\"green\">100</span>/<span class=\"purple\">120</span> seconds</span> at the start of the trial.<br>Survivors cannot repair these generators for the duration. Affected generators are highlighted by a white aura.<br><br><i>Corrupt Intervention</i> deactivates when any Survivor enters the dying state.<br><br><span class=\"FlavorText\">“It shall be known across the land that the Gods curse the unfaithful.” (The Tablet of Adiris, 3.7.)</span>"
+    },
+    {
+        "id": "infectiousfright",
+        "displayName": "Infectious Fright",
+        "side": "killer",
+        "teachableLevel": 35,
+        "characterIndex": 268435470,
+        "iconPath": "UI/Icons/Perks/Mali/iconPerks_infectiousFright.png",
+        "description": "The cries of the unfaithful makes your heart leap.<br><br>Any Survivors that are within your Terror Radius while another Survivor is put into the dying state will yell and reveal their location to you for <span class=\"Highlight1\"><span class=\"yellow\">4</span>/<span class=\"green\">5</span>/<span class=\"purple\">6</span> seconds</span>.<br><br><span class=\"FlavorText\">“Horror overcomes the heart of infidels who cry at the feet of the fallen.” (Hymn of Praise, 11. 4)</span>"
+    },
+    {
+        "id": "darkdevotion",
+        "displayName": "Dark Devotion",
+        "side": "killer",
+        "teachableLevel": 40,
+        "characterIndex": 268435470,
+        "iconPath": "UI/Icons/Perks/Mali/iconPerks_darkDevotion.png",
+        "description": "The display of your powers creates a whirlwind of panic that spreads throughout the land.<br><br>You become obsessed with one Survivor. When the Obsession loses a health state, your Terror Radius transfers to the Obsession for <span class=\"Highlight2\"><span class=\"yellow\">20</span>/<span class=\"green\">25</span>/<span class=\"purple\">30</span> seconds</span>, and its radius is set to <span class=\"Highlight1\"><span class=\"yellow\">32</span> meters</span>.<br><br>You are granted the <b>Undetectable</b> status effect for the duration.<br><br>The Survivor with the transferred Terror Radius is also considered to be \"inside the Terror Radius\" for other purposes.<br><br><span class=\"ReminderText\">The Killer can only be <b>obsessed</b> with one Survivor at a time.</span><br><span class=\"ReminderText\">Undetectable hides the Killer's aura, Terror Radius, and Red Stain.</span><br><br><span class=\"FlavorText\">“And terror shall take hold of a defiant non-believer, who shall falsely announce my arrival.” (The Tablet of Adiris, 48.9)</span>"
+    },
+    {
+        "id": "solidarity",
+        "displayName": "Solidarity",
+        "side": "survivor",
+        "teachableLevel": 30,
+        "characterIndex": 15,
+        "iconPath": "UI/Icons/Perks/Mali/iconPerks_solidarity.png",
+        "description": "Sharing painful experiences has the power to heal.<br>While injured, healing a Survivor without using a Med-kit also heals you at a <span class=\"Highlight1\"><span class=\"yellow\">40</span>/<span class=\"green\">45</span>/<span class=\"purple\">50</span>%</span> conversion rate.<br><br><span class=\"FlavorText\">“Showing up when things get rough, listening to people’s problems, and supporting those in need; that’s how you become stronger, that’s how you grow.” –Jane Romero</span>"
+    },
+    {
+        "id": "poised",
+        "displayName": "Poised",
+        "side": "survivor",
+        "teachableLevel": 35,
+        "characterIndex": 15,
+        "iconPath": "UI/Icons/Perks/Mali/iconPerks_poised.png",
+        "description": "Achieving goals boosts your confidence.<br>After a generator is completed, you leave no scratch marks for <span class=\"Highlight1\"> <span class=\"yellow\">6</span>/<span class=\"green\">8</span>/<span class=\"purple\">10</span> seconds</span>.<br><br><span class=\"FlavorText\">“Ok, stay calm. Don’t overthink it and just keep moving forward: you got this. –Jane Romero</span>"
+    },
+    {
+        "id": "headon",
+        "displayName": "Head On",
+        "side": "survivor",
+        "teachableLevel": 40,
+        "characterIndex": 15,
+        "iconPath": "UI/Icons/Perks/Mali/iconPerks_headOn.png",
+        "description": "When your mind is set, there better be no one standing in your way.<br><br>While standing in a locker, for <span class=\"Highlight1\"><span class=\"yellow\">3</span> seconds</span>, <i>Head On</i> activates.<br>While <i>Head On</i> is activated, perform a rush action to leave a locker to use <i>Head On</i>. If The Killer is standing within <i>Head On's</i> effective range, The Killer is stunned for <span class=\"Highlight1\"><span class=\"yellow\">3</span> seconds</span>.<br>Causes the <span class=\"Highlight3\">Exhausted</span> status effect for <span class=\"Highlight1\"><span class=\"yellow\">60</span>/<span class=\"green\">50</span>/<span class=\"purple\">40</span> seconds</span>. <br><i>Head On</i> cannot be used while Exhausted.<br>You do not recover from the <span class=\"Highlight3\">Exhausted</span> status effect while running. <br><i>Head On</i> cannot be used when you have idle crows.<br><br><span class=\"FlavorText\">“People are remembered for the challenges they overcome. You can run away and forget what you’re capable of or you can face your fears and remind the world who you are.” –Jane Romero</span>"
+    },
+    {
+        "id": "k28p01",
+        "displayName": "Dissolution",
+        "side": "killer",
+        "teachableLevel": 30,
+        "characterIndex": 268435483,
+        "iconPath": "UI/Icons/Perks/Meteor/iconPerks_Dissolution.png",
+        "description": "Everything turns to dust. It is as inescapable as the coming of the night.<br><br><span class=\"Highlight2\"><span class=\"yellow\">3</span> seconds</span> after injuring a Survivor by any means, Dissolution activates for <span class=\"Highlight1\"><span class=\"yellow\">12</span>/<span class=\"green\">16</span>/<span class=\"purple\">20</span> seconds</span>. While Dissolution is active, if a Survivor fast vaults over a pallet inside of your Terror Radius, The Entity will break the pallet at the end of the vault, and Dissolution deactivates.<br><br><span class=\"FlavorText\">\"The Garden shall be a place of perfect Joy; through Joy, nothing shall stand in our way.\" –Otto Stamper</span>"
+    },
+    {
+        "id": "k28p02",
+        "displayName": "Darkness Revealed",
+        "side": "killer",
+        "teachableLevel": 35,
+        "characterIndex": 268435483,
+        "iconPath": "UI/Icons/Perks/Meteor/iconPerks_DarknessRevelated.png",
+        "description": "In your presence, places once thought to be safe are perhaps the most dangerous. <br><br>When you search a locker, the auras of all Survivors within <span class=\"Highlight3\"><span class=\"yellow\">8</span> meters</span> of any lockers are revealed to you for <span class=\"Highlight1\"><span class=\"yellow\">3</span>/<span class=\"green\">4</span>/<span class=\"purple\">5</span> seconds</span>.<br><br>This perk has a <span class=\"Highlight2\"><span class=\"yellow\">30</span>-second</span> cooldown.<br><br><span class=\"FlavorText\">\"Stay in the light, my children. In darkness, your fear will expose you.\" –Otto Stamper</span>"
+    },
+    {
+        "id": "k28p03",
+        "displayName": "Septic Touch",
+        "side": "killer",
+        "teachableLevel": 40,
+        "characterIndex": 268435483,
+        "iconPath": "UI/Icons/Perks/Meteor/iconPerks_SepticTouch.png",
+        "description": "The Land of Shadows subsumes all. Healing only delays the inevitable.<br><br>Whenever a Survivor performs the healing action within your Terror Radius, that Survivor suffers from <b>Blindness</b> and <b>Exhausted</b>.<br><br>These effects linger for <span class=\"Highlight1\"><span class=\"yellow\">6</span>/<span class=\"green\">8</span>/<span class=\"purple\">10</span> seconds</span> after a healing action is interrupted by any means.<br><br><span class=\"FlavorText\">\"Do not admit to fear, or pain, or doubt. These are the seeds from which darkness grows.\" –Otto Stamper</span>"
+    },
+    {
+        "id": "s31p01",
+        "displayName": "Inner Focus",
+        "side": "survivor",
+        "teachableLevel": 30,
+        "characterIndex": 30,
+        "iconPath": "UI/Icons/Perks/Meteor/iconPerks_InnerFocus.png",
+        "description": "You have honed your ability to see through the haze of the Ravage.<br><br>You can see other Survivors' scratch marks.<br><br>Whenever another Survivor loses a health state within <b><span class=\"Highlight1\"><span class=\"yellow\">32</span> meters</span></b> of you, the Killer's aura is revealed to you for <span class=\"Highlight2\"><span class=\"yellow\">3</span>/<span class=\"green\">4</span>/<span class=\"purple\">5</span> seconds</span>.<br><br><span class=\"FlavorText\">\"The death, the trauma, the fear… it all leads here. The Overlap.\" –Haddie Kaur, Ravages of the Abyss Episode 11</span>"
+    },
+    {
+        "id": "s31p02",
+        "displayName": "Residual Manifest",
+        "side": "survivor",
+        "teachableLevel": 35,
+        "characterIndex": 30,
+        "iconPath": "UI/Icons/Perks/Meteor/iconPerks_ResidualManifest.png",
+        "description": "A lifetime of chasing the darkness has taught you that the best disinfectant is light.<br><br>After a successful Killer Blind action, the Killer is affected by the <b>Blindness</b> status effect for <span class=\"Highlight1\"><span class=\"yellow\">20</span>/<span class=\"green\">25</span>/<span class=\"purple\">30</span> seconds</span>.<br><br>This perk grants the ability to rummage through an opened chest once per trial and will guarantee a basic Flashlight.<br><br><span class=\"FlavorText\">\"I’ll never see what Haddie sees. But so long as I’m with her, I know I’m safe.\" –Jordan Rois, Ravages of the Abyss Episode 5</span>"
+    },
+    {
+        "id": "s31p03",
+        "displayName": "Overzealous",
+        "side": "survivor",
+        "teachableLevel": 40,
+        "characterIndex": 30,
+        "iconPath": "UI/Icons/Perks/Meteor/iconPerks_Overzealous.png",
+        "description": "Fighting back against the Ravage motivates and inspires you.<br><br>After cleansing any Totem, this perk activates.<br><br>Your generator repair speed is increased by <span class=\"Highlight1\"><span class=\"yellow\">6</span>/<span class=\"green\">7</span>/<span class=\"purple\">8</span>%</span>. This bonus is doubled if you cleanse a Hex totem.<br><br>This perk deactivates when you lose a health state by any means.<br><br><span class=\"FlavorText\">\"The Ravage senses us. We need to work fast.\" –Haddie Kaur, Ravages of the Abyss Episode 9</span>"
+    },
+    {
+        "id": "boondestroyer",
+        "displayName": "Shattered Hope",
+        "side": "killer",
+        "teachableLevel": -1,
+        "characterIndex": -1,
+        "iconPath": "UI/Icons/Perks/Meteor/iconPerks_BoonDestroyer.png",
+        "description": "To capture your prey, you must first extinguish their hope.<br><br>Whenever you snuff a Boon Totem, the totem is destroyed instead.<br><br>When you destroy a Boon Totem this way, the auras of all Survivors inside the Boon Totem range are revealed to you for <span class=\"Highlight1\"><span class=\"yellow\">6</span>/<span class=\"green\">7</span>/<span class=\"purple\">8</span> seconds</span>.<br><br><span class=\"FlavorText\">\"Nothing is permanent here. Nothing except our endless perdition.\" -Unknown, Notebook</span>"
+    },
+    {
+        "id": "imallears",
+        "displayName": "I'm All Ears",
+        "side": "killer",
+        "teachableLevel": 30,
+        "characterIndex": 268435471,
+        "iconPath": "UI/Icons/Perks/Oman/iconPerks_imAllEars.png",
+        "description": "Your keen senses are sharpened in the dark realm of The Entity.<br><br>Unlocks potential in one's aura reading ability. Any Survivor performing a rushed action within <span class=\"Highlight1\">48 meters</span> from your location will have their aura revealed for <span class=\"Highlight2\"><span class=\"yellow\">6</span> seconds</span>.<br><br><i>I'm All Ears</i> can only be triggered once every <span class=\"Highlight3\"><span class=\"yellow\">60</span>/<span class=\"green\">50</span>/<span class=\"purple\">40</span> seconds</span>.<br><br><span class=\"FlavorText\">“There is no need to worry. I’ve been preparing my whole life for this.\" –The Ghost Face</span>"
+    },
+    {
+        "id": "thrillingtremors",
+        "displayName": "Thrilling Tremors",
+        "side": "killer",
+        "teachableLevel": 35,
+        "characterIndex": 268435471,
+        "iconPath": "UI/Icons/Perks/Oman/iconPerks_thrillingTremors.png",
+        "description": "Your dark designs and shrewd composure rouse The Entity.<br><br>After picking up a Survivor, all Generators not being repaired by Survivors are blocked by The Entity and cannot be repaired for the next <span class=\"Highlight1\"><span class=\"yellow\">16</span> seconds</span>. Affected generators are highlighted by a white aura.<br><br><i>Thrilling Tremors</i> can only be triggered once every <span class=\"Highlight2\"><span class=\"yellow\">100</span>/<span class=\"green\">80</span>/<span class=\"purple\">60</span> seconds</span>.<br><br><span class=\"FlavorText\">\"The night assists me and it’s endless here.\" –The Ghost Face</span>"
+    },
+    {
+        "id": "furtivechase",
+        "displayName": "Furtive Chase",
+        "side": "killer",
+        "teachableLevel": 40,
+        "characterIndex": 268435471,
+        "iconPath": "UI/Icons/Perks/Oman/iconPerks_furtiveChase.png",
+        "description": "You become <b>obsessed</b> with one Survivor. You lurk in the shadows, eliminating your victims one by one. When your Obsession is hooked, <i>Furtive Chase</i> receives a token, up to a maximum of <span class=\"Highlight1\"><span class=\"yellow\">2</span>/<span class=\"green\">3</span>/<span class=\"purple\">4</span> tokens</span>.<br><br>Each token decreases your Terror Radius by <span class=\"Highlight2\"><span class=\"yellow\">4</span> meters</span> while in a chase.<br><br>When a Survivor rescues the Obsession from a hook, the rescuer becomes the Obsession. <br><br><span class=\"ReminderText>\"The Killer can only be <b>obsessed</b> with one Survivor at a time.</span><br><br><span class=\"FlavorText\">\"You have no idea what I have planned for you. It’ll be in the news for weeks: I’ll make sure of it.\" –The Ghost Face</span>"
+    },
+    {
+        "id": "surge",
+        "displayName": "Jolt",
+        "side": "killer",
+        "teachableLevel": -1,
+        "characterIndex": 268435472,
+        "iconPath": "UI/Icons/Perks/Qatar/iconPerks_surge.png",
+        "description": "Your eerie presence charges the air and interferes with technology.<br><br>Putting a Survivor into the dying state with a <i>basic attack</i> causes all generators within a <span class=\"Highlight1\">32-meter radius</span> to explode instantly and begin regressing. Generators affected by <i>Jolt</i> immediately lose <span class=\"Highlight2\"><span class=\"yellow\">6</span>/<span class=\"green\">7</span>/<span class=\"purple\">8</span>%</span> of their progress.<br><span class=\"FlavorText\">“The creature appears to have some unknown influence over electricity and nearby electronics.” -Hawkins National Laboratory</span>"
+    },
+    {
+        "id": "mindbreaker",
+        "displayName": "Fearmonger",
+        "side": "killer",
+        "teachableLevel": -1,
+        "characterIndex": 268435472,
+        "iconPath": "UI/Icons/Perks/Qatar/iconPerks_mindBreaker.png",
+        "description": "Your distressing presence drains and weakens your prey.<br><br>While repairing generators, Survivors are afflicted by the <b>Blindness</b> and <b>Exhausted</b> status effect.<br><br>Any existing <b>Exhausted</b> status effect timers are paused while the Survivor is repairing a generator. After ending the repair action, the Survivor is afflicted by the <b>Blindness</b> and <b>Exhausted</b> status effect for <span class=\"Highlight2\"><span class=\"yellow\">3</span>/<span class=\"green\">4</span>/<span class=\"purple\">5</span> seconds</span>.<br><br><span class=\"ReminderText\">Blindness prevents Survivors from seeing auras.</span><br><span class=\"ReminderText\">Exhausted prevents Survivors from activating exhausting perks.</span><br><br><span class=\"FlavorText\">\"The specimen's apparent telepathic ability can evoke feelings of dread and fatigue in nearby individuals.\" -Hawkins National Laboratory</span>"
+    },
+    {
+        "id": "cruelconfinement",
+        "displayName": "Claustrophobia",
+        "side": "killer",
+        "teachableLevel": -1,
+        "characterIndex": 268435472,
+        "iconPath": "UI/Icons/Perks/Qatar/iconPerks_cruelConfinement.png",
+        "description": "Your ties to the otherworldly manifest when your prey attempts to get away.<br><br>Every time a generator is completed, all windows and vault locations within a <span class=\"Highlight1\"><span class=\"yellow\">32</span> meter radius</span> of the completed generator are blocked for all Survivors for the next <span class=\"Highlight2\"><span class=\"yellow\">20</span>/<span class=\"green\">25</span>/<span class=\"purple\">30</span> seconds</span>. <br><br>You see the aura of the vault locations blocked by <i>Claustrophobia</i> for the duration.<br><br><span class=\"FlavorText\">“The specimen seems to be able to affect the state of nearby objects, as if they existed in some other form within a dimension alternate to our own.” -Hawkins National Laboratory</span>"
+    },
+    {
+        "id": "bettertogether",
+        "displayName": "Situational Awareness",
+        "side": "survivor",
+        "teachableLevel": -1,
+        "characterIndex": 17,
+        "iconPath": "UI/Icons/Perks/Qatar/iconPerks_betterTogether.png",
+        "description": "You seek justice and uncover the truth no matter what obstacle stands in your way.<br><br>The aura of the generator you are currently repairing is revealed to all other Survivors located within <span class=\"Highlight1\"><span class=\"yellow\">32</span> meters</span>.<br><br>If The Killer downs a Survivor while you are repairing a generator, you see the aura of all other Survivors for <span class=\"Highlight2\"><span class=\"yellow\">8</span>/<span class=\"green\">9</span>/<span class=\"purple\">10</span> seconds</span>.<br><br><span class=\"FlavorText\">“Let’s burn that lab to the ground.” -Nancy Wheeler</span>"
+    },
+    {
+        "id": "fixated",
+        "displayName": "Self-Aware",
+        "side": "survivor",
+        "teachableLevel": -1,
+        "characterIndex": 17,
+        "iconPath": "UI/Icons/Perks/Qatar/iconPerks_fixated.png",
+        "description": "When you have a goal in mind, there’s no turning back: better to ask forgiveness than permission. <br><br>You can see your own scratch marks at all times.<br><br>You walk <span class=\"Highlight1\"><span class=\"yellow\">10</span>/<span class=\"green\">15</span>/<span class=\"purple\">20</span>%</span> faster.<br><br><span class=\"FlavorText\">\"I wanna finish what we started. I want to kill it.\" -Nancy Wheeler</span>"
+    },
+    {
+        "id": "innerstrength",
+        "displayName": "Inner Healing",
+        "side": "survivor",
+        "teachableLevel": -1,
+        "characterIndex": 17,
+        "iconPath": "UI/Icons/Perks/Qatar/iconPerks_innerStrength.png",
+        "description": "You look inward and trust your instincts when you feel lost and alone.<br><br>Each time you complete a Totem cleanse action, <i>Inner Healing</i> activates. If you are already afflicted by the <b>Broken</b> status effect, <i>Inner Healing</i> does not activate.<br><br>While <i>Inner Healing</i> is active, hiding inside a locker for <span class=\"Highlight1\"><span class=\"yellow\">10</span>/<span class=\"green\">9</span>/<span class=\"purple\">8</span> seconds</span> while injured automatically heals you from injured to healthy.<br><br><i>Inner Healing</i> becomes deactivated as soon as it has successfully triggered.<br><br><span class=\"FlavorText\">“All this time I’ve been trying so hard to pretend like everything’s fine, but it’s not.” -Nancy Wheeler</span>"
+    },
+    {
+        "id": "babysitter",
+        "displayName": "Guardian",
+        "side": "survivor",
+        "teachableLevel": -1,
+        "characterIndex": 18,
+        "iconPath": "UI/Icons/Perks/Qatar/iconPerks_babySitter.png",
+        "description": "While you have a reputation for being self-centered, you risk it all to help those in need.<br><br>When you unhook a Survivor, they won’t leave scratch marks or pools of blood, and they gain a <span class=\"Highlight1\"><span class=\"yellow\">7</span>%</span> <b>Haste</b> status effect for <span class=\"Highlight2\"><span class=\"yellow\">4</span>/<span class=\"green\">6</span>/<span class=\"purple\">8</span> seconds</span>.<br><br>You see the Killer's aura for <span class=\"Highlight3\"><span class=\"yellow\">8</span> seconds</span>.<br><br><span class=\"FlavorText\">“I promised to keep you shitheads safe, and that’s exactly what I plan on doing.” -Steve Harrington</span>"
+    },
+    {
+        "id": "camaraderie",
+        "displayName": "Kinship",
+        "side": "survivor",
+        "teachableLevel": -1,
+        "characterIndex": 18,
+        "iconPath": "UI/Icons/Perks/Qatar/iconPerks_camaraderie.png",
+        "description": "Life has taught you the importance of friendship which has given you strength.<br><br>While you are on the hook in the struggle phase, <i>Kinship</i> activates.<br><br>If another Survivor is within <span class=\"Highlight1\"><span class=\"yellow\">16</span> meters</span> of you while <i>Kinship</i> is activated, the hook timer is paused for <span class=\"Highlight2\"><span class=\"yellow\">26</span>/<span class=\"green\">30</span>/<span class=\"purple\">34</span> seconds</span>.<br><br><span class=\"FlavorText\">\"So, remember once you get in there… pretend like you don’t care. There you go, you’re learning my friend. You’re learning.” -Steve Harrington</span>"
+    },
+    {
+        "id": "secondwind",
+        "displayName": "Renewal",
+        "side": "survivor",
+        "teachableLevel": -1,
+        "characterIndex": 18,
+        "iconPath": "UI/Icons/Perks/Qatar/iconPerks_secondWind.png",
+        "description": "When you have healed other Survivors for the equivalent of one health state, <i>Renewal</i> activates. If you are already afflicted by the <span class=\"Highlight1\">Broken</span> status effect, <i>Renewal</i> does not activate.<br><br>While <i>Renewal</i> is activated, the next time you are unhooked or you unhook yourself, you are affected by the <span class=\"Highlight1\">Broken</span> status effect. After a total duration of <span class=\"Highlight2\"><span class=\"yellow\">28</span>/<span class=\"green\">24</span>/<span class=\"purple\">20</span> seconds</span>, <i>Renewal</i> automatically heals you from injured to healthy.<br><br><i>Renewal</i> deactivates once you become healthy or if you are put into the dying state before <i>Renewal</i> successfully triggers. You lose the <span class=\"Highlight1\">Broken</span> status effect.<br><br><span class=\"FlavorText\">\"Yeah, that’s a no.\" -Steve Harrington</span>"
+    },
+    {
+        "id": "zanshintactics",
+        "displayName": "Zanshin Tactics",
+        "side": "killer",
+        "teachableLevel": 30,
+        "characterIndex": 268435473,
+        "iconPath": "UI/Icons/Perks/Sweden/iconPerks_zanshinTactics.png",
+        "description": "Unlocks potential in one's aura reading ability. You are mentally alert and aware of key points on the battlefield.<br><br>The auras of all pallets, breakable walls, and vault locations are revealed to you within a <span class=\"Highlight1\"><span class=\"yellow\">24</span>/<span class=\"green\">28</span>/<span class=\"purple\">32</span> meter</span> range.<br><br><span class=\"FlavorText\">“Within your enemy’s strength is weakness.” -Renjiro’s Doctrine 12:5</span>"
+    },
+    {
+        "id": "bloodecho",
+        "displayName": "Blood Echo",
+        "side": "killer",
+        "teachableLevel": 35,
+        "characterIndex": 268435473,
+        "iconPath": "UI/Icons/Perks/Sweden/iconPerks_bloodEcho.png",
+        "description": "The agony of one is inflicted on others.<br><br>When hooking a Survivor, all other injured Survivors suffer from the <span class=\"Highlight1\">Hemorrhage</span> and <span class=\"Highlight1\">Exhaustion</span> status effect for <span class=\"Highlight2\"><span class=\"yellow\">45</span> seconds</span>.<br><br><i>Blood Echo</i> has a cooldown of <span class=\"Highlight3\"><span class=\"yellow\">80</span>/<span class=\"green\">70</span>/<span class=\"purple\">60</span> seconds.</span><br><br><span class=\"ReminderText\">Exhausted prevents Survivors from activating exhausting perks.</span><br><span class=\"ReminderText\">Hemorrhage regresses healing progress when not healing, and increases blood trails left by injured Survivors.</span><br><br><span class=\"FlavorText\">“Attack an enemy with precision and their allies will feel it.” -Renjiro’s Doctrine 6:3</span>"
+    },
+    {
+        "id": "nemesis",
+        "displayName": "Nemesis",
+        "side": "killer",
+        "teachableLevel": 40,
+        "characterIndex": 268435473,
+        "iconPath": "UI/Icons/Perks/Sweden/iconPerks_nemesis.png",
+        "description": "You seek retribution on those who have wronged you.<br><br>A Survivor who blinds you or stuns you using a pallet or locker becomes your Obsession. Anytime a new Survivor becomes the Obsession, they are affected by the <span class=\"Highlight1\">Oblivious</span> status effect for <span class=\"Highlight2\"><span class=\"yellow\">40</span>/<span class=\"green\">50</span>/<span class=\"purple\">60</span> seconds</span> and their aura is shown to you for <span class=\"Highlight3\"><span class=\"yellow\">4</span> seconds</span>.<br><br><span class=\"ReminderText>\"The Killer can only be <b>obsessed</b> with one Survivor at a time.</span><br><span class=\"ReminderText\">Oblivious prevents Survivors from hearing or being affected by the Killer's Terror Radius.</span><br><br><span class=\"FlavorText\">“Only a fool would spit in a demon’s face and declare victory.” -Renjiro’s Doctrine 4:9</span>"
+    },
+    {
+        "id": "luckybreak",
+        "displayName": "Lucky Break",
+        "side": "survivor",
+        "teachableLevel": 30,
+        "characterIndex": 19,
+        "iconPath": "UI/Icons/Perks/Sweden/iconPerks_luckyBreak.png",
+        "description": "You’ve had your share of scrapes and bruises, but luck’s always on your side.<br><br><i>Lucky Break</i> activates any time you are injured. While <i>Lucky Break</i> is active, you won’t leave trails of blood or scratch marks for a total of <span class=\"Highlight1\"><span class=\"yellow\">40</span>/<span class=\"green\">50</span>/<span class=\"purple\">60</span> seconds</span>.<br><br>For each <span class=\"Highlight1\">1 second</span> spent healing another Survivor, increase <i>Lucky Break</i>'s duration by <span class=\"Highlight3\">1 second</span>. <i>Lucky Break</i>'s duration cannot increase beyond its starting value.<br><br><span class=\"FlavorText\">“That’s not enough to beat me. Not even close.” -Yui Kimura </span>"
+    },
+    {
+        "id": "anymeansnecessary",
+        "displayName": "Any Means Necessary",
+        "side": "survivor",
+        "teachableLevel": 35,
+        "characterIndex": 19,
+        "iconPath": "UI/Icons/Perks/Sweden/iconPerks_anyMeansNecessary.png",
+        "description": "You stand up for yourself, using whatever’s on hand to gain an advantage.<br><br>You see the auras of dropped Pallets.<li>Press and hold the <i>Active Ability button</i> for <span class=\"Highlight1\"><span class=\"yellow\">4</span> seconds</span> while standing beside a dropped pallet to reset it to its upright position.</li><br><i>Any Means Necessary</i> has a cooldown of <span class=\"Highlight2\"><span class=\"yellow\">100</span>/<span class=\"green\">80</span>/<span class=\"purple\">60</span> seconds</span>.<br><br><span class=\"FlavorText\">“I’ll hit you with everything I’ve got. Then I’ll do it again.” -Yui Kimura </span>"
+    },
+    {
+        "id": "breakout",
+        "displayName": "Breakout",
+        "side": "survivor",
+        "teachableLevel": 40,
+        "characterIndex": 19,
+        "iconPath": "UI/Icons/Perks/Sweden/iconPerks_breakout.png",
+        "description": "You kick into high gear when someone’s in trouble, inspiring them to overcome any obstacle.<br><br>When within <span class=\"Highlight1\"><span class=\"yellow\">6</span> meters</span> of a carried Survivor, you gain the <span class=\"Highlight2\">Haste</span> status effect, moving at <span class=\"Highlight3\"><span class=\"yellow\">5</span>/<span class=\"green\">6</span>/<span class=\"purple\">7</span>%</span> increased speed. The carried Survivor’s wiggle speed is increased by <span class=\"Highlight4\"><span class=\"yellow\">20</span>%</span>.<br><br><span class=\"FlavorText\">“Come, we’re going to rip our way out of this.” -Yui Kimura </span>"
+    },
+    {
+        "id": "balanced_landing",
+        "displayName": "Balanced Landing",
+        "side": "survivor",
+        "teachableLevel": 30,
+        "characterIndex": 4,
+        "iconPath": "UI/Icons/Perks/iconPerks_balancedLanding.png",
+        "description": "Your agility is incomparable.<br><br>After falling from a height, cat-like reflexes reduce your stagger duration from falling by <span class=\"Highlight1\"><span class=\"yellow\">75</span>%</span> and reduce the volume of grunts from falling by <span class=\"Highlight1\">100%</span>. You start sprinting at <span class=\"Highlight2\"><span class=\"yellow\">150</span>%</span> your normal running speed for a maximum of <span class=\"Highlight3\"><span class=\"yellow\">3</span> seconds</span>.<br><br>Causes the <b>Exhausted</b> status effect for <span class=\"Highlight4\"><span class=\"yellow\">60</span>/<span class=\"green\">50</span>/<span class=\"purple\">40</span> seconds</span>.<br><br><i>Balanced Landing</i> cannot be used while <b>Exhausted</b>.<br><br>You do not recover from the <b>Exhausted</b> status effect while running.<br><br><span class=\"FlavorText\">\"I've jumped from higher places.\" -Nea</span>"
+    },
+    {
+        "id": "urban_evasion",
+        "displayName": "Urban Evasion",
+        "side": "survivor",
+        "teachableLevel": 35,
+        "characterIndex": 4,
+        "iconPath": "UI/Icons/Perks/iconPerks_urbanEvasion.png",
+        "description": "Years of evading the cops taught you a thing or two about stealth. Your movement speed while crouching is increased by <span class=\"Highlight1\"><span class=\"yellow\">90</span>/<span class=\"green\">95</span>/<span class=\"purple\">100</span>%</span>.<br><br><span class=\"FlavorText\">\"The paint is still fresh but I'm long gone.\" -Nea</span>"
+    },
+    {
+        "id": "streetwise",
+        "displayName": "Streetwise",
+        "side": "survivor",
+        "teachableLevel": 40,
+        "characterIndex": 4,
+        "iconPath": "UI/Icons/Perks/iconPerks_streetwise.png",
+        "description": "Long nights out taught you to do a lot with what you've got. Reduce consumption rate of item charge by <span class=\"Highlight1\"><span class=\"yellow\">15</span>/<span class=\"green\">20</span>/<span class=\"purple\">25</span>%</span> for you and allies within a <span class=\"Highlight2\"><span class=\"yellow\">8</span> meter</span> range. Once out of range, this effect persists for <span class=\"Highlight4\"><span class=\"yellow\">15</span> seconds</span>.<br><br><span class=\"FlavorText\">\"You're doing it wrong! Let me show you how it's done.\" -Nea</span>"
+    },
+    {
+        "id": "thanatophobia",
+        "displayName": "Thanatophobia",
+        "side": "killer",
+        "teachableLevel": 35,
+        "characterIndex": 268435459,
+        "iconPath": "UI/Icons/Perks/iconPerks_thatanophobia.png",
+        "description": "Their courage fades in the face of undeniable mortality.<br><br>For each injured, dying, or hooked Survivor, all Survivors receive a penalty of <span class=\"Highlight1\"><span class=\"yellow\">4.5</span>/<span class=\"green\">5</span>/<span class=\"purple\">5.5</span>%</span> to a maximum of <span class=\"Highlight1\"><span class=\"yellow\">18</span>/<span class=\"green\">20</span>/<span class=\"purple\">22</span>%</span> to repair, sabotage and Totem-cleansing speeds.<br><br><span class=\"FlavorText\">\"She plays with us and revels in our pain.\"</span>"
+    },
+    {
+        "id": "nursecalling",
+        "displayName": "A Nurse's Calling",
+        "side": "killer",
+        "teachableLevel": 40,
+        "characterIndex": 268435459,
+        "iconPath": "UI/Icons/Perks/iconPerks_aNursesCalling.png",
+        "description": "Unlocks potential in one's aura reading ability. The auras of Survivors who are healing or being healed are revealed to you when they are within a <span class=\"Highlight1\"><span class=\"yellow\">20</span>/<span class=\"green\">24</span>/<span class=\"purple\">28</span> meter</span> range.<br><br><span class=\"FlavorText\">“Still attached to the fragments of her past life, she is drawn to those in need of help.”</span>"
+    },
+    {
+        "id": "stridor",
+        "displayName": "Stridor",
+        "side": "killer",
+        "teachableLevel": 30,
+        "characterIndex": 268435459,
+        "iconPath": "UI/Icons/Perks/iconPerks_stridor.png",
+        "description": "You are acutely sensitive to the breathing of your prey.<br><br>Breathing of Survivors in pain is <span class=\"Highlight1\"><span class=\"yellow\">25</span>/<span class=\"green\">50</span>/<span class=\"purple\">50</span>%</span> louder and regular breathing is <span class=\"Highlight2\"><span class=\"yellow\">0</span>/<span class=\"green\">25</span>%</span> louder.<br><br><span class=\"FlavorText\">“If you don’t stop and catch your breath… she will.”</span>"
+    },
+    {
+        "id": "offtherecord",
+        "displayName": "Off the Record",
+        "side": "survivor",
+        "teachableLevel": 30,
+        "characterIndex": 20,
+        "iconPath": "UI/Icons/Perks/Ukraine/iconPerks_offTheRecord.png",
+        "description": "You’ve learned that a quiet approach is sometimes best. <br><br>Once you are unhooked or escape from the hook, <i>Off the Record</i> activates for <span class=\"Highlight1\"><span class=\"yellow\">60</span>/<span class=\"green\">70</span>/<span class=\"purple\">80</span> seconds</span>. This perk and its effects are disabled once the exit gates are powered. <br><br>While <i>Off the Record</i> is active:<li>Your aura will not be shown to The Killer.</li><li>Grunts of pain caused by injuries are reduced by <span class=\"Highlight2\">100%</span>.</li><li>Gain the <b>Endurance</b> status effect.</li><br><span class=\"ReminderText\">Endurance prevents a survivor from being downed, inflicting Deep Wound instead.</span><br><br><span class=\"FlavorText\">\"Trust me, I investigate thoroughly and discreetly.\" -Zarina Kassir</span>"
+    },
+    {
+        "id": "redherring",
+        "displayName": "Red Herring",
+        "side": "survivor",
+        "teachableLevel": 35,
+        "characterIndex": 20,
+        "iconPath": "UI/Icons/Perks/Ukraine/iconPerks_redHerring.png",
+        "description": "You’ve noticed that people pay attention to whatever makes the loudest noise.<br><br>After repairing a generator for at least <span class=\"Highlight1\"><span class=\"yellow\">3</span> seconds</span>, it will be highlighted to you with a yellow aura. The generator stays highlighted until it is fully repaired, you repair a new generator, or enter a locker. <br><br>Entering any locker will trigger a loud noise indicator for The Killer at the highlighted generator's location. <br><li><i>Red Herring</i> can only be triggered once every <span class=\"Highlight2\"><span class=\"yellow\">60</span>/<span class=\"green\">50</span>/<span class=\"purple\">40</span> seconds</span>.</li><br><br><span class=\"FlavorText\">\"The news edit out what is burdensome and complex, which is the truth.\" -Zarina Kassir</span>"
+    },
+    {
+        "id": "forthepeople",
+        "displayName": "For the People",
+        "side": "survivor",
+        "teachableLevel": 40,
+        "characterIndex": 20,
+        "iconPath": "UI/Icons/Perks/Ukraine/iconPerks_forThePeople.png",
+        "description": "You risk life and injury for others.<br><br><i>For the People</i> is only active while at full health.<br><br>Press the <i>Active Ability button</i> while healing another Survivor without a Med-Kit to instantly heal them from dying to injured, or from injured to healthy.<br><br>You become injured and receive the <b>Broken</b> status effect for <span class=\"Highlight1\"><span class=\"yellow\">80</span>/<span class=\"green\">70</span>/<span class=\"purple\">60</span> seconds</span>.<br><br>You become the Obsession.<br><br>Equipping this perk <b>decreases</b> your chances to be The Killer’s Obsession at the start of the trial.<br><br><span class=\"FlavorText\">\"We can write our own story and decide how it really ends.\" -Zarina Kassir</span>"
+    },
+    {
+        "id": "gearhead",
+        "displayName": "Gearhead",
+        "side": "killer",
+        "teachableLevel": 30,
+        "characterIndex": 268435474,
+        "iconPath": "UI/Icons/Perks/Ukraine/iconPerks_gearHead.png",
+        "description": "You’ve got an ear for well-oiled gears.<br><br>After a Survivor loses a health state, <i>Gearhead</i> activates.<br><br>While <i>Gearhead</i> is active, each time a Survivor completes a Great Skill Check while repairing, their aura is revealed to you for <span class=\"Highlight1\"> <span class=\"yellow\">6</span>/<span class=\"green\">8</span>/<span class=\"purple\">10</span> seconds</span>.<br><br><span class=\"FlavorText\">\"Sometimes a man's best work is what puts him in the grave.\" -The prison warden</span>"
+    },
+    {
+        "id": "deadmansswitch",
+        "displayName": "Dead Man’s Switch\t",
+        "side": "killer",
+        "teachableLevel": 35,
+        "characterIndex": 268435474,
+        "iconPath": "UI/Icons/Perks/Ukraine/iconPerks_deadManSwitch.png",
+        "description": "When you hook a Survivor, <i>Dead Man’s Switch</i> activates for the next <span class=\"Highlight1\"><span class=\"yellow\">35</span>/<span class=\"green\">40</span>/<span class=\"purple\">45</span> seconds</span>. <br><br>While activated, any Survivor that stops repairing a generator before it is fully repaired causes The Entity to block the generator until <i>Dead Man’s Switch's</i> effect ends. <br><br>Affected generators are highlighted by a white aura.<br><br><span class=\"FlavorText\">\"I've seen the look on a man's face when he realizes he's going to die.\" -Caleb Quinn</span>"
+    },
+    {
+        "id": "hexretribution",
+        "displayName": "Hex: Retribution",
+        "side": "killer",
+        "teachableLevel": 40,
+        "characterIndex": 268435474,
+        "iconPath": "UI/Icons/Perks/Ukraine/iconPerks_hexRetribution.png",
+        "description": "A Hex that lashes out upon its destruction. Those who cross you will be punished.<br><br>Any Survivor interacting with a Dull Totem or a Hex Totem will suffer from the <b>Oblivious</b> status effect for <span class=\"Highlight1\"><span class=\"yellow\">35</span>/<span class=\"green\">40</span>/<span class=\"purple\">45</span> seconds</span>.<br><br>If any Hex Totem is removed, including this one, the auras of all Survivors are revealed for <span class=\"Highlight2\"><span class=\"yellow\">15</span> seconds</span>.<br><br><span class=\"ReminderText\">Oblivious prevents Survivors from hearing or being affected by the Killer's Terror Radius.</span><br><br><span class=\"FlavorText\">\"Bloody fool, you pulled the trigger on yourself.\" -Caleb Quinn</span>"
+    },
+    {
+        "id": "soulguard",
+        "displayName": "Soul Guard",
+        "side": "survivor",
+        "teachableLevel": 30,
+        "characterIndex": 21,
+        "iconPath": "UI/Icons/Perks/Wales/iconPerks_soulGuard.png",
+        "description": "You have been through immense hardship and you’re stronger for it.<br><br>Gain the <b>Endurance</b> status effect for <span class=\"Highlight1\"><span class=\"yellow\">4</span>/<span class=\"green\">6</span>/<span class=\"purple\">8</span> seconds</span> after being healed or having recovered from the dying state.<br>While cursed by a Hex, you can fully recover from the dying state.<br><br>This effect can only trigger once every <span class=\"Highlight2\">30 seconds</span>."
+    },
+    {
+        "id": "bloodpact",
+        "displayName": "Blood Pact",
+        "side": "survivor",
+        "teachableLevel": 35,
+        "characterIndex": 21,
+        "iconPath": "UI/Icons/Perks/Wales/iconPerks_bloodPact.png",
+        "description": "It’s as if a latent part of yourself has awakened. You feel like you can reach out beyond yourself for assistance.<br><br>When you or the Obsession are injured, you both see each other's auras.<br><br>After completing a healing action on the Obsession, or having the Obsession complete a healing action on you, you both gain a <span class=\"Highlight1\"><span class=\"yellow\">5</span>/<span class=\"green\">6</span>/<span class=\"purple\">7</span>%</span> <b>Haste</b> status effect until no longer within <span class=\"Highlight2\">16 meters</span> of each other.<br><br>Reduces the odds of being the Obsession.<br><br>If you are the Obsession, this perk deactivates."
+    },
+    {
+        "id": "repressedalliance",
+        "displayName": "Repressed Alliance ",
+        "side": "survivor",
+        "teachableLevel": 40,
+        "characterIndex": 21,
+        "iconPath": "UI/Icons/Perks/Wales/iconPerks_repressedAlliance.png",
+        "description": "You’re accustomed to being hunted by malicious forces, and you’ve begun using it to your advantage.<br><br><i>Repressed Alliance</i> activates after repairing generators for a total of <span class=\"Highlight1\"><span class=\"yellow\">55</span>/<span class=\"green\">50</span>/<span class=\"purple\">45</span> seconds</span>.<br><br>When repairing a generator while the perk is active, press the <i>Active Ability button</i> to call upon The Entity to block the generator for <span class=\"Highlight2\"><span class=\"yellow\">30</span> seconds</span>. The perk deactivates.<br><br>Affected generators will be revealed by a white aura to all Survivors."
+    },
+    {
+        "id": "forcedpenance",
+        "displayName": "Forced Penance",
+        "side": "killer",
+        "teachableLevel": 30,
+        "characterIndex": 268435475,
+        "iconPath": "UI/Icons/Perks/Wales/iconPerks_forcedPenance.png",
+        "description": "Those who stand in the way of duty will suffer harsh judgment.<br><br>Survivors who take a protection hit are inflicted with the <b>Broken</b> status effect for <span class=\"Highlight1\"><span class=\"yellow\">60</span>/<span class=\"green\">70</span>/<span class=\"purple\">80</span> seconds</span>.<br><br><span class=\"ReminderText\">Broken prevents Survivors from being healed.</span>"
+    },
+    {
+        "id": "trailoftorment",
+        "displayName": "Trail of Torment",
+        "side": "killer",
+        "teachableLevel": 35,
+        "characterIndex": 268435475,
+        "iconPath": "UI/Icons/Perks/Wales/iconPerks_trailOfTorment.png",
+        "description": "You guide your victims along a path of pain and punishment.<br><br>After damaging a generator, you become <b>Undetectable</b> until the generator stops regressing or a Survivor is injured or put into the dying state by any means. During this time, the generator’s yellow aura is revealed to Survivors.<br><br>This effect can only trigger once every <span class=\"Highlight1\"><span class=\"yellow\">80</span>/<span class=\"green\">70</span>/<span class=\"purple\">60</span> seconds</span>.<br><br><span class=\"ReminderText\">Undetectable hides the Killer's aura, Terror Radius, and Red Stain.</span>"
+    },
+    {
+        "id": "deathbound",
+        "displayName": "Deathbound",
+        "side": "killer",
+        "teachableLevel": 40,
+        "characterIndex": 268435475,
+        "iconPath": "UI/Icons/Perks/Wales/iconPerks_deathbound.png",
+        "description": "Those whose lives are intertwined in darkness are destined to suffer together.<br><br>When a Survivor heals another Survivor for one health state at least <span class=\"Highlight1\"><span class=\"yellow\">32</span> meters</span> away from the Killer, the Survivor performing the healing action will scream, revealing their location and activating <i>Deathbound</i> for the next <span class=\"Highlight2\"><span class=\"yellow\">60</span> seconds.</span> During that time, the Survivor will suffer from the <b>Oblivious</b> status effect when further than <span class=\"Highlight3\"><span class=\"yellow\">16</span>/<span class=\"green\">12</span>/<span class=\"purple\">8</span> meters</span> away from the healed Survivor.<br><br><span class=\"ReminderText\">Oblivious prevents Survivors from hearing or being affected by the Killer's Terror Radius.</span>"
+    },
+    {
+        "id": "dragonsgrip",
+        "displayName": "Dragon’s Grip",
+        "side": "killer",
+        "teachableLevel": 30,
+        "characterIndex": 268435476,
+        "iconPath": "UI/Icons/Perks/Yemen/iconPerks_dragonsGrip.png",
+        "description": "After damaging a generator, for the next <span class=\"Highlight1\"><span class=\"yellow\">30</span> seconds</span>, the first Survivor that interacts with it will scream, revealing their location for <span class=\"Highlight2\"><span class=\"yellow\">4</span> seconds</span>, and becoming afflicted with the <b>Exposed</b> status effect for <span class=\"Highlight3\"><span class=\"yellow\">60</span> seconds</span>.<br><br><i>Dragon’s Grip</i> has a cooldown of <span class=\"Highlight4\"><span class=\"yellow\">120</span>/<span class=\"green\">100</span>/<span class=\"purple\">80</span> seconds</span>.<br><br><span class=\"ReminderText\">Exposed Survivors will be downed by basic attacks even if uninjured.</span><br><br><span class=\"FlavorText\">“Such potential in this compound... even the slightest trace causes unnatural effects.” —Journal of Talbot Grimes</span>"
+    },
+    {
+        "id": "hexundying",
+        "displayName": "Hex: Undying",
+        "side": "killer",
+        "teachableLevel": 40,
+        "characterIndex": 268435476,
+        "iconPath": "UI/Icons/Perks/Yemen/iconPerks_hexUndying.png",
+        "description": "While <i>Hex: Undying</i> is active, Survivors within <span class=\"Highlight1\"><span class=\"yellow\">2</span>/<span class=\"green\">3</span>/<span class=\"purple\">4</span> meters</span> of any Dull Totem have their aura revealed.<br><br>When another Hex Totem is cleansed, that Totem's Hex transfers to the Hex: Undying Totem, deactivating Hex: Undying. Any tokens the transferred Hex had are transferred as well."
+    },
+    {
+        "id": "hexbloodfavor",
+        "displayName": "Hex: Blood Favor",
+        "side": "killer",
+        "teachableLevel": 35,
+        "characterIndex": 268435476,
+        "iconPath": "UI/Icons/Perks/Yemen/iconPerks_hexBloodFavor.png",
+        "description": "A Hex that gains The Entity’s favor when blood is spilled.<br><br>Injuring a Survivor will call upon The Entity to block pallets from being pulled down within a <span class=\"Highlight1\"><span class=\"yellow\">24</span>/<span class=\"green\">28</span>/<span class=\"purple\">32</span> meter</span> radius of the Survivor location for <span class=\"Highlight2\"><span class=\"yellow\">15</span> seconds</span>. <br><br><i>The Hex effects persist as long as the related Hex Totem is standing.</i><br><br><span class=\"FlavorText\">“It would be no leap of the imagination to suggest that the trials are a biological response of sorts.” —Journal of Talbot Grimes</span>"
+    },
+    {
+        "id": "visionary",
+        "displayName": "Visionary",
+        "side": "survivor",
+        "teachableLevel": 30,
+        "characterIndex": 22,
+        "iconPath": "UI/Icons/Perks/Yemen/iconPerks_visionary.png",
+        "description": "You’re remarkably focused on your means of escape.<br><br>You see generator’s auras within <span class=\"Highlight1\"><span class=\"yellow\">32</span> meters</span>.<br><br>Anytime a generator is completed, <i>Visionary</i> is disabled for <span class=\"Highlight2\"><span class=\"yellow\">20</span>/<span class=\"green\">18</span>/<span class=\"purple\">16</span> seconds</span>."
+    },
+    {
+        "id": "desperatemeasures",
+        "displayName": "Desperate Measures",
+        "side": "survivor",
+        "teachableLevel": 35,
+        "characterIndex": 22,
+        "iconPath": "UI/Icons/Perks/Yemen/iconPerks_desperateMeasures.png",
+        "description": "You refuse to fail, even during your darkest hour.<br><br>For each injured, hooked, or dying Survivor, increase the speed of your healing and unhook actions by <span class=\"Highlight1\"><span class=\"yellow\">10</span>/<span class=\"green\">12</span>/<span class=\"purple\">14</span>%</span>.<br><br><span class=\"FlavorText\">\"When they come with a wrecking ball, build stronger walls.” —Felix Richter</span>"
+    },
+    {
+        "id": "builttolast",
+        "displayName": "Built to Last",
+        "side": "survivor",
+        "teachableLevel": 40,
+        "characterIndex": 22,
+        "iconPath": "UI/Icons/Perks/Yemen/iconPerks_builtToLast.png",
+        "description": "You know how to get the most out of your tools.<br><br>After hiding inside a locker for <span class=\"Highlight1\"><span class=\"yellow\">14</span>/<span class=\"green\">13</span>/<span class=\"purple\">12</span> seconds</span> with a depleted item in hand, <span class=\"Highlight2\"><span class=\"yellow\">99</span>%</span> of its charges are refilled.<br>Each use of <i>Built to Last</i> reduces the amounts of charges refilled by <span class=\"Highlight3\"><span class=\"yellow\">33</span>%</span>.<br><br><span class=\"FlavorText\">\"Architecture is the soul of civilization.” —Felix Richter</span>"
+    },
+    {
+        "id": "agitation",
+        "displayName": "Agitation",
+        "side": "killer",
+        "teachableLevel": 40,
+        "characterIndex": 268435456,
+        "iconPath": "UI/Icons/Perks/iconPerks_agitation.png",
+        "description": "You get excited in anticipation of hooking your prey.<br><br>Increases your movement speed while transporting bodies by <span class=\"Highlight1\"><span class=\"yellow\">6</span>/<span class=\"green\">12</span>/<span class=\"purple\">18</span>%</span>. While transporting a body, your Terror Radius is increased by <span class=\"Highlight2\"><span class=\"yellow\">12</span> meters</span>.<br><br><span class=\"FlavorText\">\"At some point, the excitement of hooking one of us becomes more important than the desire to kill us.\"</span>"
+    },
+    {
+        "id": "brutal_strength",
+        "displayName": "Brutal Strength",
+        "side": "killer",
+        "teachableLevel": 35,
+        "characterIndex": 268435456,
+        "iconPath": "UI/Icons/Perks/iconPerks_brutalStrength.png",
+        "description": "Your great strength allows you to shred through your prey's defenses.<br><br>Destroy dropped <b>pallets, breakable walls, and generators</b> <span class=\"Highlight1\"><span class=\"yellow\">10</span>/<span class=\"green\">15</span>/<span class=\"purple\">20</span>%</span> faster.<br><br><span class=\"FlavorText\">\"It's more than muscles. A dark power motivates the beast.\"</span>"
+    },
+    {
+        "id": "unnerving_presence",
+        "displayName": "Unnerving Presence",
+        "side": "killer",
+        "teachableLevel": 30,
+        "characterIndex": 268435456,
+        "iconPath": "UI/Icons/Perks/iconPerks_unnervingPresence.png",
+        "description": "Your presence alone instills great fear.<br><br>Survivors within your Terror Radius have a <span class=\"Highlight1\"><span class=\"yellow\">10</span>%</span> greater chance of triggering Skill Checks when repairing or healing. Triggered Skill Checks' success zones are reduced by <span class=\"Highlight2\"><span class=\"yellow\">40</span>/<span class=\"green\">50</span>/<span class=\"purple\">60</span>%</span>.<br><br><span class=\"FlavorText\">\"Its presence befalls us.\"</span>"
+    },
+    {
+        "id": "predator",
+        "displayName": "Predator",
+        "side": "killer",
+        "teachableLevel": 30,
+        "characterIndex": 268435457,
+        "iconPath": "UI/Icons/Perks/iconPerks_predator.png",
+        "description": "Your acute tracking ability allows you to hone in on disturbances left by running Survivors.<br><br>Scratch marks left by Survivors will spawn <span class=\"Highlight1\"><span class=\"yellow\">slightly</span>/<span class=\"green\">moderately</span>/<span class=\"purple\">considerably</span></span> closer together.<br><br><span class=\"FlavorText\">\"Never stop moving and hope you're always two steps ahead of the beast.\" -Notebook</span>"
+    },
+    {
+        "id": "shadowborn",
+        "displayName": "Shadowborn",
+        "side": "killer",
+        "teachableLevel": 40,
+        "characterIndex": 268435457,
+        "iconPath": "UI/Icons/Perks/iconPerks_shadowborn.png",
+        "description": "You have a keen vision in the darkness of the night.<br><br>Your field of view is <span class=\"Highlight2\"><span class=\"yellow\">9</span>/<span class=\"green\">12</span>/<span class=\"purple\">15</span> degrees</span> wider than normal.<br><i>Does not stack with other FOV increases.</i><br><br><span class=\"FlavorText\">\"Shining in the darkest dark, his eyes pierce the night and sting your soul.\"</span>"
+    },
+    {
+        "id": "bloodhound",
+        "displayName": "Bloodhound",
+        "side": "killer",
+        "teachableLevel": 35,
+        "characterIndex": 268435457,
+        "iconPath": "UI/Icons/Perks/iconPerks_bloodhound.png",
+        "description": "Like a hunting scent hound, you smell traces of blood at a great distance.<br><br>Fresh blood marks are <span class=\"Highlight1\">considerably</span> more discernible than normal and can be tracked for <span class=\"Highlight2\"><span class=\"yellow\">2</span>/<span class=\"green\">3</span>/<span class=\"purple\">4</span> seconds</span> longer than normal.<br><br><span class=\"FlavorText\">\"Pebbles shimmering in the moonlight; my life drips down in a trail so easy to follow.\"</span>"
+    },
+    {
+        "id": "lightborn",
+        "displayName": "Lightborn",
+        "side": "killer",
+        "teachableLevel": 35,
+        "characterIndex": 268435458,
+        "iconPath": "UI/Icons/Perks/iconPerks_lightborn.png",
+        "description": "Unlike other beasts of The Fog, you have adapted to light.<br><br>You are immune to blindness caused by Flashlights, firecrackers, flashbangs, and blast mines. Survivors that attempt blinding you have their aura revealed for <span class=\"Highlight1\"><span class=\"yellow\">6</span>/<span class=\"green\">8</span>/<span class=\"purple\">10</span> seconds</span>.<br><br><span class=\"ReminderText\">Blindness prevents Survivors from seeing auras.</span><br><br><span class=\"FlavorText\">\"These monsters… they adapt! They emerge with strange new abilities.\" -Vigo's Journal</span>"
+    },
+    {
+        "id": "enduring",
+        "displayName": "Enduring",
+        "side": "killer",
+        "teachableLevel": 30,
+        "characterIndex": 268435458,
+        "iconPath": "UI/Icons/Perks/iconPerks_enduring.png",
+        "description": "You are resilient to pain.<br><br>You reduce the duration of <b>pallet stuns</b> by <span class=\"Highlight1\"><span class=\"yellow\">40</span>/<span class=\"green\">45</span>/<span class=\"purple\">50</span>%</span>. Has no effect while carrying a Survivor.<br><br><span class=\"FlavorText\">\"He stops at nothing.\"</span>"
+    },
+    {
+        "id": "tinkerer",
+        "displayName": "Tinkerer",
+        "side": "killer",
+        "teachableLevel": 40,
+        "characterIndex": 268435458,
+        "iconPath": "UI/Icons/Perks/iconPerks_tinkerer.png",
+        "description": "Whenever a generator is repaired to <span class=\"Highlight1\"><span class=\"yellow\">70</span>%</span> progress, it triggers a loud noise notification and you are granted the <b>Undetectable</b> status effect for the next <span class=\"Highlight2\"><span class=\"yellow\">12</span>/<span class=\"green\">14</span>/<span class=\"purple\">16</span> seconds</span>. This effect can only be triggered once on each generator.<br><br><span class=\"ReminderText\">Undetectable hides the Killer's aura, Terror Radius, and Red Stain.</span><br><br><span class=\"FlavorText\">\"The Hillbilly makes impressive tools out of scraps. Tools aimed at maiming us in creative ways...\" -Notebook</span>"
+    },
+    {
+        "id": "distressing",
+        "displayName": "Distressing",
+        "side": "killer",
+        "teachableLevel": -1,
+        "characterIndex": -1,
+        "iconPath": "UI/Icons/Perks/iconPerks_distressing.png",
+        "description": "Your horrifying emanation strikes at a supernaturally long distance.<br><br>Your Terror Radius is increased by <span class=\"Highlight1\"><span class=\"yellow\">22</span>/<span class=\"green\">24</span>/<span class=\"purple\">26</span>%</span>. Gain <span class=\"Highlight2\"><span class=\"yellow\">100</span>%</span> more Bloodpoints for actions in the Deviousness category.<br><br><span class=\"FlavorText\">\"Bask in their fear.\"</span>"
+    },
+    {
+        "id": "monstrous_shrine",
+        "displayName": "Scourge Hook: Monstrous Shrine",
+        "side": "killer",
+        "teachableLevel": -1,
+        "characterIndex": -1,
+        "iconPath": "UI/Icons/Perks/iconPerks_monstrousShrine.png",
+        "description": "Your fervent care of the hooks found in the basement have aroused The Entity's interest.<br><br>At the start of the trial, up to <span class=\"Highlight1\"><span class=\"yellow\">4</span></span> random hooks are changed into scourge hooks. You see their auras in white.<br><br><li>Scourge Hooks grant <span class=\"Highlight2\"><span class=\"yellow\">10</span>/<span class=\"green\">15</span>/<span class=\"purple\">20</span>%</span> faster Entity progression if the Killer is not within <span class=\"Highlight3\">24 meters</span>.</li><br>Basement hooks count as Scourge Hooks.<br><br><span class=\"FlavorText\">\"Then you will know that there is no escape. When hanging in the depths, you face the dark one.\"</span>"
+    },
+    {
+        "id": "unrelenting",
+        "displayName": "Unrelenting",
+        "side": "killer",
+        "teachableLevel": -1,
+        "characterIndex": -1,
+        "iconPath": "UI/Icons/Perks/iconPerks_unrelenting.png",
+        "description": "You recuperate faster from missed attacks made with your main weapon. The cooldown after missed <i>basic attacks</i> is reduced by <span class=\"Highlight1\"><span class=\"yellow\">20</span>/<span class=\"green\">25</span>/<span class=\"purple\">30</span>%</span>."
+    },
+    {
+        "id": "sloppy_butcher",
+        "displayName": "Sloppy Butcher",
+        "side": "killer",
+        "teachableLevel": -1,
+        "characterIndex": -1,
+        "iconPath": "UI/Icons/Perks/iconPerks_sloppyButcher.png",
+        "description": "You know where to hit to make them bleed.<br><br>Wounds inflicted by <i>basic attacks</i> cause Survivors to suffer from the <b>Hemorrhage</b> and <b>Mangled</b> status effects.<li><b>Increases</b> the rate at which healing progression is lost from <b>Hemorrhage</b> by <span class=\"Highlight1\"><span class=\"yellow\">15</span>/<span class=\"green\">20</span>/<span class=\"purple\">25</span>%</span>.</li><li>Both status effects are removed once the Survivor is fully healed.</li><br><span class=\"ReminderText\">Hemorrhage regresses healing progress when not healing, and increases blood trails left by injured Survivors.</span><br><span class=\"ReminderText\">Mangled increases time required to heal by 25% and lasts until fully healed.</span><br><br><span class=\"FlavorText\">\"It's in its sadistic nature. There is no swift kill as it delights in the obscene spectacle of our agonizing suffering.\"</span>"
+    },
+    {
+        "id": "iron_grasp",
+        "displayName": "Iron Grasp",
+        "side": "killer",
+        "teachableLevel": -1,
+        "characterIndex": -1,
+        "iconPath": "UI/Icons/Perks/iconPerks_ironGrasp.png",
+        "description": "Your powerful hold on the Survivors causes escapes to be nearly impossible.<br><br>Effects of Survivor struggling are reduced by <span class=\"Highlight1\"><span class=\"yellow\">75</span>%</span>. Time to struggle out of your grasp is increased by <span class=\"Highlight2\"><span class=\"yellow\">4</span>/<span class=\"green\">8</span>/<span class=\"purple\">12</span>%</span>."
+    },
+    {
+        "id": "spies_from_the_shadows",
+        "displayName": "Spies from the Shadows",
+        "side": "killer",
+        "teachableLevel": -1,
+        "characterIndex": -1,
+        "iconPath": "UI/Icons/Perks/iconPerks_spiesFromTheShadows.png",
+        "description": "The crows found in the world can communicate with you directly.<br><br><span class=\"Highlight1\"><span class=\"yellow\">100</span>%</span> of the time, cawing crows give you a visual cue when you are within a <span class=\"Highlight2\"><span class=\"yellow\">20</span>/<span class=\"green\">28</span>/<span class=\"purple\">36</span> meter</span> range.<br><i>Spies From The Shadows</i> has a cooldown of <span class=\"Highlight3\"><span class=\"yellow\">5</span> seconds</span>.<br><br><span class=\"FlavorText\">\"In the shadows they torment, scarring our minds with each scream.\"</span>"
+    },
+    {
+        "id": "bitter_murmur",
+        "displayName": "Bitter Murmur",
+        "side": "killer",
+        "teachableLevel": -1,
+        "characterIndex": -1,
+        "iconPath": "UI/Icons/Perks/iconPerks_bitterMurmur.png",
+        "description": "Unlocks potential in one's aura reading ability. Each time a generator is fully repaired, Survivors within <span class=\"Highlight1\"><span class=\"yellow\">16</span> meters</span> of the completed generator will be revealed for <span class=\"Highlight2\"><span class=\"yellow\">5</span> seconds</span>.<br>When the last generator is fully repaired, all the Survivors' auras are revealed for <span class=\"Highlight3\"><span class=\"yellow\">5</span>/<span class=\"green\">7</span>/<span class=\"purple\">10</span> seconds</span>."
+    },
+    {
+        "id": "deerstalker",
+        "displayName": "Deerstalker",
+        "side": "killer",
+        "teachableLevel": -1,
+        "characterIndex": -1,
+        "iconPath": "UI/Icons/Perks/iconPerks_deerstalker.png",
+        "description": "Unlocks potential in one's aura reading ability. Reveals dying Survivors' auras when standing within a <span class=\"Highlight1\"><span class=\"yellow\">20</span>/<span class=\"green\">28</span>/<span class=\"purple\">36</span> meter</span> range."
+    },
+    {
+        "id": "insidious",
+        "displayName": "Insidious",
+        "side": "killer",
+        "teachableLevel": -1,
+        "characterIndex": -1,
+        "iconPath": "UI/Icons/Perks/iconPerks_insidious.png",
+        "description": "Unlocks the stealth ability.<br><br>Standing still for <span class=\"Highlight1\"><span class=\"yellow\">4</span>/<span class=\"green\">3</span>/<span class=\"purple\">2</span> seconds</span> grants you the <b>Undetectable</b> status effect until you move or act again.<br><br><span class=\"ReminderText\">Undetectable hides the Killer's aura, Terror Radius, and Red Stain.</span>"
+    },
+    {
+        "id": "no_one_escapes_death",
+        "displayName": "Hex: No One Escapes Death",
+        "side": "killer",
+        "teachableLevel": -1,
+        "characterIndex": -1,
+        "iconPath": "UI/Icons/Perks/iconPerks_noOneEscapesDeath.png",
+        "description": "A Hex rooting its power on hope. You are animated by the power of your Hex Totem when the Survivors are on the verge of escaping.<br><br>Once the exit gates are powered, if there is a Dull Totem remaining on the map, this Hex is applied to it.</br><br>While this Hex is active,<li>Survivors suffer from the <b>Exposed</b> status effect.</li><li>Your movement speed is increased by <span class=\"Highlight1\"><span class=\"yellow\">2</span>/<span class=\"green\">3</span>/<span class=\"purple\">4</span>%</span>.</li><br>Once the Hex's effect is revealed to the Survivors, its Hex Totem's aura is shown to the Survivors at a range of <span class=\"Highlight2\">4 meters</span>. This range increases steadily over the next <span class=\"Highlight3\">30 seconds</span> to <span class=\"Highlight4\">24 meters</span>.<br><br>The Hex effects persist as long as the related Hex Totem is standing.<br><br><span class=\"ReminderText\">Exposed Survivors will be downed by basic attacks even if uninjured.</span><br><br><span class=\"FlavorText\">\"And the beast became faster and more powerful as if The Entity's shadowy whips were lashing at its back.\"</span>"
+    },
+    {
+        "id": "whispers",
+        "displayName": "Whispers",
+        "side": "killer",
+        "teachableLevel": -1,
+        "characterIndex": -1,
+        "iconPath": "UI/Icons/Perks/iconPerks_whispers.png",
+        "description": "You have a rudimentary understanding of The Entity's voice.<br><br>Sporadically hear The Entity's whisper when standing within a <span class=\"Highlight1\"><span class=\"yellow\">48</span>/<span class=\"green\">40</span>/<span class=\"purple\">32</span> meter</span> range of a Survivor.<br><br><span class=\"FlavorText\">\"It's unclear as to the motivations of The Fog, but it is undeniable that it often takes the beast's side.\" -Notebook</span>"
+    },
+    {
+        "id": "bond",
+        "displayName": "Bond",
+        "side": "survivor",
+        "teachableLevel": 30,
+        "characterIndex": 0,
+        "iconPath": "UI/Icons/Perks/iconPerks_bond.png",
+        "description": "Unlocks potential in one's aura reading ability. Allies' auras are revealed to you when they are within a <span class=\"Highlight1\"><span class=\"yellow\">20</span>/<span class=\"green\">28</span>/<span class=\"purple\">36</span> meter</span> range.<br><br><span class=\"FlavorText\">\"We have to work as a team, I need you to survive so that I can survive!\" -Dwight</span>"
+    },
+    {
+        "id": "prove_thyself",
+        "displayName": "Prove Thyself",
+        "side": "survivor",
+        "teachableLevel": 35,
+        "characterIndex": 0,
+        "iconPath": "UI/Icons/Perks/iconPerks_proveThyself.png",
+        "description": "For every other Survivor working on a generator within a <span class=\"Highlight2\"><span class=\"yellow\">4</span> meter</span> range, gain <span class=\"Highlight1\"><span class=\"yellow\">15</span>%</span> repair speed bonus. This same bonus is also applied to all other Survivors within range.<br>Gain <span class=\"Highlight3\"><span class=\"yellow\">50</span>/<span class=\"green\">75</span>/<span class=\"purple\">100</span>%</span> more Bloodpoints for coop actions.<br>Survivors can only be affected by one Prove Thyself effect at a time.<br><br><span class=\"FlavorText\">\"Show me what you can do!\" -Dwight</span>"
+    },
+    {
+        "id": "leader",
+        "displayName": "Leader",
+        "side": "survivor",
+        "teachableLevel": 40,
+        "characterIndex": 0,
+        "iconPath": "UI/Icons/Perks/iconPerks_leader.png",
+        "description": "You're able to organize a team to cooperate more efficiently. Increases other Survivors' healing, sabotage, unhooking, cleansing, opening exit gates, and chest unlocking speeds by <span class=\"Highlight1\"><span class=\"yellow\">15</span>/<span class=\"green\">20</span>/<span class=\"purple\">25</span>%</span> when they are within a <span class=\"Highlight2\"><span class=\"yellow\">8</span> meter</span> range from you.<br>Survivors can only be affected by one Leader effect at a time.<br>This effect persists on other Survivors for <span class=\"Highlight3\"><span class=\"yellow\">15</span> seconds</span> after leaving the Leader's effective perk range."
+    },
+    {
+        "id": "saboteur",
+        "displayName": "Saboteur",
+        "side": "survivor",
+        "teachableLevel": 40,
+        "characterIndex": 3,
+        "iconPath": "UI/Icons/Perks/iconPerks_saboteur.png",
+        "description": "Unlocks potential in one's aura reading ability.<br><li>See hook auras in a <span class=\"Highlight1\">56 meter</span> radius from the pickup spot if a Survivor is being carried. Scourge Hooks are shown in yellow.</li><li>Unlocks the ability to sabotage hooks without a Toolbox.</li><li>Sabotaging a hook without a Toolbox takes <span class=\"Highlight2\">2.5 seconds</span>.</li><li>The sabotage action has a <span class=\"Highlight3\"><span class=\"yellow\">90</span>/<span class=\"green\">75</span>/<span class=\"purple\">60</span> second</span> cooldown.</li>"
+    },
+    {
+        "id": "calm_spirit",
+        "displayName": "Calm Spirit",
+        "side": "survivor",
+        "teachableLevel": 35,
+        "characterIndex": 3,
+        "iconPath": "UI/Icons/Perks/iconPerks_calmSpirit.png",
+        "description": "Animals seem to trust you as they often stay calm in your presence.<br><li>Reduces chances of alerting woodland creatures by <span class=\"Highlight1\">100%</span>.</li><li>Allows you to overcome the urge to scream.</li><li>Allows you to open chests and cleanse/bless Totems silently, but at <span class=\"Highlight2\"><span class=\"yellow\">40</span>/<span class=\"green\">35</span>/<span class=\"purple\">30</span>%</span> reduced speed.</li>"
+    },
+    {
+        "id": "iron_will",
+        "displayName": "Iron Will",
+        "side": "survivor",
+        "teachableLevel": 30,
+        "characterIndex": 3,
+        "iconPath": "UI/Icons/Perks/iconPerks_ironWill.png",
+        "description": "You're able to concentrate and enter a meditative-like state to numb some pain. Grunts of pain caused by injuries are reduced by <span class=\"Highlight1\"><span class=\"yellow\">25</span>/<span class=\"green\">50</span>/<span class=\"purple\">75</span>%</span>. Does not function while <b>Exhausted</b>. Does not inflict <b>Exhausted</b>.<br><br><span class=\"ReminderText\">Exhausted prevents Survivors from activating exhausting perks.</span>\n"
+    },
+    {
+        "id": "adrenaline",
+        "displayName": "Adrenaline",
+        "side": "survivor",
+        "teachableLevel": 40,
+        "characterIndex": 1,
+        "iconPath": "UI/Icons/Perks/iconPerks_adrenaline.png",
+        "description": "You are fuelled by unexpected energy when on the verge of escape. <span class=\"Highlight1\">Instantly heal one <b>health state</b></span> and sprint at <span class=\"Highlight2\"><span class=\"yellow\">150</span>%</span> of your normal running speed for <span class=\"Highlight3\"><span class=\"yellow\">5</span> seconds</span> when the exit gates are powered. Adrenaline is on hold if you are disabled at the moment it should take effect and will activate when freed.<br><i>Adrenaline</i> will <b>wake you up</b> if you are asleep when it triggers.<br><i>Adrenaline</i> ignores the <i>Exhausted</i> status effect.<br>Causes the <i>Exhausted</i> status effect for <span class=\"Highlight4\"><span class=\"yellow\">60</span>/<span class=\"green\">50</span>/<span class=\"purple\">40</span> seconds</span>.<br>You do not recover from the <i>Exhausted</i> status effect when running."
+    },
+    {
+        "id": "sprint_burst",
+        "displayName": "Sprint Burst",
+        "side": "survivor",
+        "teachableLevel": 35,
+        "characterIndex": 1,
+        "iconPath": "UI/Icons/Perks/iconPerks_sprintBurst.png",
+        "description": "When starting to run, break into a sprint at <span class=\"Highlight1\"><span class=\"yellow\">150</span>%</span> of your normal running speed for a maximum of <span class=\"Highlight2\"><span class=\"yellow\">3</span> seconds</span>.<br>Causes the <i>Exhausted</i> status effect for <span class=\"Highlight4\"><span class=\"yellow\">60</span>/<span class=\"green\">50</span>/<span class=\"purple\">40</span> seconds</span>.<br><i>Sprint Burst</i> cannot be used while <i>Exhausted</i>.<br>You do not recover from the <i>Exhausted</i> status effect while running."
+    },
+    {
+        "id": "quickquiet",
+        "displayName": "Quick & Quiet",
+        "side": "survivor",
+        "teachableLevel": 30,
+        "characterIndex": 1,
+        "iconPath": "UI/Icons/Perks/iconPerks_quickAndQuiet.png",
+        "description": "You do not make as much noise as others when quickly vaulting over obstacles or hiding in lockers.<br><br>The vault and hide actions' noise detection and audio range is reduced by <span class=\"Highlight1\"><span class=\"yellow\">100</span>%</span>.<br><br>This effect can only trigger once every <span class=\"Highlight2\"><span class=\"yellow\">30</span>/<span class=\"green\">25</span>/<span class=\"purple\">20</span> seconds</span>."
+    },
+    {
+        "id": "botany_knowledge",
+        "displayName": "Botany Knowledge",
+        "side": "survivor",
+        "teachableLevel": 35,
+        "characterIndex": 2,
+        "iconPath": "UI/Icons/Perks/iconPerks_botanyKnowledge.png",
+        "description": "You transform plants found around the campfire into tinctures that slow down bleeding.<br><br><li><b>Healing speed</b> is increased by <span class=\"Highlight1\"><span class=\"yellow\">30</span>/<span class=\"green\">40</span>/<span class=\"purple\">50</span>%</span>.</li><li><b>Healing item efficiency</b> is reduced by <span class=\"Highlight2\"><span class=\"yellow\">20</span>%</span>.</li><br><br><span class=\"FlavorText\">\"Basic botany knowledge could save your life someday.\"</span>"
+    },
+    {
+        "id": "empathy",
+        "displayName": "Empathy",
+        "side": "survivor",
+        "teachableLevel": 30,
+        "characterIndex": 2,
+        "iconPath": "UI/Icons/Perks/iconPerks_empathy.png",
+        "description": "Unlocks potential in one's aura reading ability. Dying or injured allies' auras are revealed to you when within a <span class=\"Highlight1\"><span class=\"yellow\">64</span>/<span class=\"green\">96</span>/<span class=\"purple\">128</span> meter</span> range. Empathy does not reveal auras of allies when they are in direct contact with the Killer."
+    },
+    {
+        "id": "self_care",
+        "displayName": "Self-Care",
+        "side": "survivor",
+        "teachableLevel": 40,
+        "characterIndex": 2,
+        "iconPath": "UI/Icons/Perks/iconPerks_selfCare.png",
+        "description": "Unlocks the ability to heal yourself without a healing item at <span class=\"Highlight1\"><span class=\"yellow\">25</span>/<span class=\"green\">30</span>/<span class=\"purple\">35</span>%</span> the normal healing speed."
+    },
+    {
+        "id": "no_one_left_behind",
+        "displayName": "No One Left Behind",
+        "side": "survivor",
+        "teachableLevel": -1,
+        "characterIndex": -1,
+        "iconPath": "UI/Icons/Perks/iconPerks_noOneLeftBehind.png",
+        "description": "It is inconceivable to leave someone behind. Once the exit gates are powered, you gain the following effects:<br><li><span class=\"Highlight1\"><span class=\"yellow\">50</span>/<span class=\"green\">75</span>/<span class=\"purple\">100</span>%</span> additional Bloodpoints for healing and unhooking other Survivors.</li><li><span class=\"Highlight2\"><span class=\"yellow\">30</span>/<span class=\"green\">40</span>/<span class=\"purple\">50</span>%</span> bonus action speed when healing and unhooking other Survivors.</li><li>When unhooking a Survivor, they gain a <span class=\"Highlight3\">7% movement bonus</span> for <span class=\"Highlight4\">10 seconds</span>.</li><li>The auras of all other Survivors are revealed to you.</li><br><br><span class=\"FlavorText\">\"...yeah, no shit. But I believe we can outsmart and overthrow him if we work together. Don't be predictable and selfish!\" -Lost Tapes: Clyde</span>"
+    },
+    {
+        "id": "wellmakeit",
+        "displayName": "We'll make it",
+        "side": "survivor",
+        "teachableLevel": -1,
+        "characterIndex": -1,
+        "iconPath": "UI/Icons/Perks/iconPerks_wellMakeIt.png",
+        "description": "Helping others heightens your morale.<br><br>When you rescue a Survivor from a hook, gain a <span class=\"Highlight1\"><span class=\"yellow\">100</span>%</span> speed increase while healing others for <span class=\"Highlight3\"><span class=\"yellow\">30</span>/<span class=\"green\">60</span>/<span class=\"purple\">90</span> seconds</span>.<br><br><span class=\"FlavorText\">\"I'm confident we can all escape in one piece if we help each other.\"</span>"
+    },
+    {
+        "id": "slippery_meat",
+        "displayName": "Slippery Meat",
+        "side": "survivor",
+        "teachableLevel": -1,
+        "characterIndex": -1,
+        "iconPath": "UI/Icons/Perks/iconPerks_slipperyMeat.png",
+        "description": "You have developed an efficient way to get off hooks.<br><li>Grants up to <span class=\"Highlight1\"><span class=\"yellow\">3</span></span> extra escape attempts on the hook.</li><li>Hook escape attempts have a <span class=\"Highlight2\"><span class=\"yellow\">2</span>/<span class=\"green\">3</span>/<span class=\"purple\">4</span>%</span> increased chance to succeed.</li>"
+    },
+    {
+        "id": "small_game",
+        "displayName": "Small Game",
+        "side": "survivor",
+        "teachableLevel": -1,
+        "characterIndex": -1,
+        "iconPath": "UI/Icons/Perks/iconPerks_smallGame.png",
+        "description": "You have the undeniable capability to sense danger. Get an auditory warning when looking in the direction of Totems in a <span class=\"Highlight1\">45-degree</span> cone within a range of <span class=\"Highlight2\"><span class=\"yellow\">8</span>/<span class=\"green\">10</span>/<span class=\"purple\">12</span> meters</span>. Small Game has a cooldown of <span class=\"Highlight3\"><span class=\"yellow\">14</span>/<span class=\"green\">12</span>/<span class=\"purple\">10</span> seconds</span> each time it activates. For each Dull Totem and Hex Totem cleansed by any player, gain a Token. Small Game's detection cone is reduced by <span class=\"Highlight4\">5 degrees</span> per token.<br><br><span class=\"FlavorText\">\"Nope.\" -Lost Tapes: Andy</span>"
+    },
+    {
+        "id": "resilience",
+        "displayName": "Resilience",
+        "side": "survivor",
+        "teachableLevel": -1,
+        "characterIndex": -1,
+        "iconPath": "UI/Icons/Perks/iconPerks_resilience.png",
+        "description": "You are motivated in dire situations. Grants <span class=\"Highlight1\"><span class=\"yellow\">3</span>/<span class=\"green\">6</span>/<span class=\"purple\">9</span>%</span> additional speed when repairing, sabotaging, healing, unhooking, vaulting, cleansing, opening exit gates, and unlocking while injured.<br><br><span class=\"FlavorText\">\"Focus, even in these desperate times.\"</span>"
+    },
+    {
+        "id": "this_is_not_happening",
+        "displayName": "This Is Not Happening",
+        "side": "survivor",
+        "teachableLevel": -1,
+        "characterIndex": -1,
+        "iconPath": "UI/Icons/Perks/iconPerks_thisIsNotHappening.png",
+        "description": "You perform at your best when you are under extreme stress. Great Skill Check success zones when repairing and healing get <span class=\"Highlight1\"><span class=\"yellow\">10</span>/<span class=\"green\">20</span>/<span class=\"purple\">30</span>%</span> bigger when you are injured."
+    },
+    {
+        "id": "hope",
+        "displayName": "Hope",
+        "side": "survivor",
+        "teachableLevel": -1,
+        "characterIndex": -1,
+        "iconPath": "UI/Icons/Perks/iconPerks_hope.png",
+        "description": "The growing odds of a successful escape fill you with hope and give you wings. <br><br>As soon as the exit gates are powered you gain a <span class=\"Highlight1\"><span class=\"yellow\">5</span>/<span class=\"green\">6</span>/<span class=\"purple\">7</span>%</span> <b>Haste</b> status effect.<br><br><span class=\"ReminderText\">Haste increases Survivor movement speed.</span><br><br><span class=\"FlavorText\">\"Buckle up, fuckos! Let's roll!\" -Lost Tapes: Nikki</span>"
+    },
+    {
+        "id": "lightweight",
+        "displayName": "Lightweight",
+        "side": "survivor",
+        "teachableLevel": -1,
+        "characterIndex": -1,
+        "iconPath": "UI/Icons/Perks/iconPerks_lightweight.png",
+        "description": "Your running is light and soft, making your tracks harder to follow. Scratch marks stay visible <span class=\"Highlight1\"><span class=\"yellow\">3</span>/<span class=\"green\">4</span>/<span class=\"purple\">5</span> seconds</span> less than normal, and their spacing is inconsistent.<br><br><span class=\"FlavorText\">\"Take it slow, he knows where you've been… just like I've always said: live slow and die old.\" -Lost Tapes: Dylan</span>"
+    },
+    {
+        "id": "dark_sense",
+        "displayName": "Dark Sense",
+        "side": "survivor",
+        "teachableLevel": -1,
+        "characterIndex": -1,
+        "iconPath": "UI/Icons/Perks/iconPerks_darkSense.png",
+        "description": "Unlocks potential in one's aura reading ability. <br><br>Each time a generator is completed, <i>Dark Sense</i> activates.<br>While <i>Dark Sense</i> is active, the Killer entering a <span class=\"Highlight1\">24-meter radius</span> around you reveals their aura for <span class=\"Highlight2\"><span class=\"yellow\">5</span>/<span class=\"green\">7</span>/<span class=\"purple\">10</span> seconds</span>.<br>Once the aura's duration expires, <i>Dark Sense</i> deactivates.<br><br><span class=\"FlavorText\">\"Take it from an old-timer: Slow down, don't rush and try not to worry so much! The best way to beat him is to know how he thinks.\" -Lost Tapes: Murf</span>"
+    },
+    {
+        "id": "deja_vu",
+        "displayName": "Deja Vu",
+        "side": "survivor",
+        "teachableLevel": -1,
+        "characterIndex": -1,
+        "iconPath": "UI/Icons/Perks/iconPerks_dejaVu.png",
+        "description": "The auras of <span class=\"Highlight1\">3</span> generators</span> which are in close proximity to one another are revealed to you for <span class=\"Highlight2\"><span class=\"yellow\">30</span>/<span class=\"green\">45</span>/<span class=\"purple\">60</span> seconds</span> at the start of the match and each time a generator is completed.<br>If you are holding a Map that can track generators, generators revealed by <i>Déjà Vu</i> are added to the map.<br>Gain a <span class=\"Highlight3\">5% repair speed bonus</span> on the revealed generators."
+    },
+    {
+        "id": "plunderers_instinct",
+        "displayName": "Plunderer's Instinct",
+        "side": "survivor",
+        "teachableLevel": -1,
+        "characterIndex": -1,
+        "iconPath": "UI/Icons/Perks/iconPerks_plunderersInstinct.png",
+        "description": "Unlocks potential in one's aura reading ability. The auras of unopened chests and items in the environment are revealed to you when standing within a <span class=\"Highlight1\"><span class=\"yellow\">16</span>/<span class=\"green\">24</span>/<span class=\"purple\">32</span> meter</span> range. Grants a <b>considerably</b> better chance at finding an item of higher rarity from chests.<br><br><span class=\"FlavorText\">\"The pioneers used to loot these babies for hours.\" -Lost Tapes: Aizeyu</span>"
+    },
+    {
+        "id": "premonition",
+        "displayName": "Premonition",
+        "side": "survivor",
+        "teachableLevel": -1,
+        "characterIndex": -1,
+        "iconPath": "UI/Icons/Perks/iconPerks_premonition.png",
+        "description": "You have the undeniable capability to sense danger. Get an auditory warning when looking in the direction of the Killer in a <span class=\"Highlight1\">45 degree</span> cone within a range of <span class=\"Highlight2\"><span class=\"yellow\">36</span> meters</span>. Premonition has a cooldown of <span class=\"Highlight3\"><span class=\"yellow\">60</span>/<span class=\"green\">45</span>/<span class=\"purple\">30</span> seconds</span> each time it activates.<br><br><span class=\"FlavorText\">\"I have a bad feeling about this!\"</span>"
+    },
+    {
+        "id": "spine_chill",
+        "displayName": "Spine Chill",
+        "side": "survivor",
+        "teachableLevel": -1,
+        "characterIndex": -1,
+        "iconPath": "UI/Icons/Perks/iconPerks_spineChill.png",
+        "description": "An unnatural tingle warns you of impending doom.<br>Get notified when the Killer is within a <span class=\"Highlight1\">36-meter range</span>. If the Killer is within range and is looking at you with a clear line of sight, your speed while repairing, sabotaging, healing, unhooking, cleansing, blessing, opening exit gates and unlocking is increased by <span class=\"Highlight2\"><span class=\"yellow\">2</span>/<span class=\"green\">4</span>/<span class=\"purple\">6</span>%</span>.<li>The effects of <i>Spine Chill</i> linger for <span class=\"Highlight3\">0.5 seconds</span> after the Killer looks away or is out of range.</li><li><i>Spine Chill's</i> icon indicates the strength of the Killer's Terror Radius.</li>"
+    },
+    {
+        "id": "kindred",
+        "displayName": "Kindred",
+        "side": "survivor",
+        "teachableLevel": -1,
+        "characterIndex": -1,
+        "iconPath": "UI/Icons/Perks/iconPerks_kindred.png",
+        "description": "Unlocks potential in one's aura reading ability. While you are on the hook, all Survivor's auras are revealed to all other Survivors. If The Killer is within a <span class=\"Highlight1\"><span class=\"yellow\">8</span>/<span class=\"green\">12</span>/<span class=\"purple\">16</span> meter</span> range, The Killer's aura is revealed to all other Survivors.<br><br>While a Survivor other than you is on the hook, all other Survivors’ auras are revealed to you. If The Killer is within a <span class=\"Highlight1\"><span class=\"yellow\">8</span>/<span class=\"green\">12</span>/<span class=\"purple\">16</span> meter</span> range of the hooked Survivor, The Killer's aura is revealed to you.<br><br><span class=\"FlavorText\">“Be kind to one another. We’re all in this together.” -Lost Tapes: Sujan</span>"
+    },
+    {
+        "id": "open_handed",
+        "displayName": "Open-Handed",
+        "side": "survivor",
+        "teachableLevel": 30,
+        "characterIndex": 6,
+        "iconPath": "UI/Icons/Perks/DLC3/iconPerks_openHanded.png",
+        "description": "Strengthens the potential of you and your team's aura reading abilities.<br><li>Increases aura reading ranges by <span class=\"Highlight1\"><span class=\"yellow\">8</span>/<span class=\"green\">12</span>/<span class=\"purple\">16</span> meters</span>.</li><li>Survivors may only be affected by one <i>Open-Handed</i> effect at a time.</li><br><span class=\"FlavorText\">“Paying attention is what kept me alive through the years. That, and my good looks of course.” -Ace</span>"
+    },
+    {
+        "id": "up_the_ante",
+        "displayName": "Up the Ante",
+        "side": "survivor",
+        "teachableLevel": 35,
+        "characterIndex": 6,
+        "iconPath": "UI/Icons/Perks/DLC3/iconPerks_upTheAnte.png",
+        "description": "All will be well in the end; you just know it. Your confidence strengthens the feeling of hope for those around you. For each other Survivor still alive, grant a <span class=\"Highlight1\"><span class=\"yellow\">1</span>/<span class=\"green\">2</span>/<span class=\"purple\">3</span>%</span> bonus of luck to all remaining Survivors.<br><br><span class=\"FlavorText\">“What can I say? I’m just a very lucky guy… I’m sure some of it will rub off on you.” -Ace</span>"
+    },
+    {
+        "id": "ace_in_the_hole",
+        "displayName": "Ace in the Hole",
+        "side": "survivor",
+        "teachableLevel": 40,
+        "characterIndex": 6,
+        "iconPath": "UI/Icons/Perks/DLC3/iconPerks_aceInTheHole.png",
+        "description": "Lady Luck always seems to be throwing something good your way.<br>When retrieving an item from a chest, there is a <span class=\"Highlight1\"><span class=\"yellow\">100</span>%</span> chance that a <span class=\"Highlight2\">Very Rare</span> (or lower) add-on will be attached to it.<br><span class=\"Highlight3\"><span class=\"yellow\">10</span>/<span class=\"green\">25</span>/<span class=\"purple\">50</span>%</span> chance of finding an add-on of <span class=\"Highlight4\">Uncommon</span> rarity (or lower).<br>When escaping, keep any add-ons your item has.<br><br><span class=\"FlavorText\">“Everything that glitters isn’t gold. But gold isn't worth a damn in this place, so this should come in handy.” -Ace</span>"
+    },
+    {
+        "id": "hex_the_third_seal",
+        "displayName": "Hex: The Third Seal",
+        "side": "killer",
+        "teachableLevel": 30,
+        "characterIndex": 268435460,
+        "iconPath": "UI/Icons/Perks/DLC3/iconPerks_theThirdSeal.png",
+        "description": "A Hex that hinders one's aura reading ability.<br><br>Hitting a Survivor with a <i>basic attack</i> or a <i>special attack</i> while the Hex Totem is active applies the <b>Blindness</b> status effect. This effect applies to the last <span class=\"Highlight1\"><span class=\"yellow\">2</span>/<span class=\"green\">3</span>/<span class=\"purple\">4</span></span> Survivors hit.<br><i>The Hex effects persist as long as the related Hex Totem is standing.</i><br><br><span class=\"ReminderText\">Blindness prevents Survivors from seeing auras.</span><br><br><span class=\"FlavorText\">“She touched your skin, you bear the witch's mark!”</span>"
+    },
+    {
+        "id": "hex_ruin",
+        "displayName": "Hex: Ruin",
+        "side": "killer",
+        "teachableLevel": 35,
+        "characterIndex": 268435460,
+        "iconPath": "UI/Icons/Perks/DLC3/iconPerks_ruin.png",
+        "description": "A Hex that affects all generator repair progress.<br><br>All generators are affected by <i>Hex: Ruin</i>. While a generator is not being repaired by a Survivor, it will immediately and automatically regress repair progress at <span class=\"Highlight1\"><span class=\"yellow\">50</span>/<span class=\"green\">75</span>/<span class=\"purple\">100</span>%</span> of the normal regression speed.<br><br><li>Once any Survivor is killed by any means, the <i>Hex: Ruin</i> Totem reverts to a Dull Totem.</li><br><i>The Hex effects persist as long as the related Hex Totem is standing.</i><br><br><span class=\"FlavorText\">“A curse is upon you. It will be your ruin.”</span>"
+    },
+    {
+        "id": "hex_devour_hope",
+        "displayName": "Hex: Devour Hope",
+        "side": "killer",
+        "teachableLevel": 40,
+        "characterIndex": 268435460,
+        "iconPath": "UI/Icons/Perks/DLC3/iconPerks_devourHope.png",
+        "description": "A Hex rooting its power on hope. The false hope of Survivors ignites your hunger.<br><br>When a Survivor is rescued from a hook at least <span class=\"Highlight1\">24 meters</span> away, Devour Hope receives a token.<br><li><span class=\"Highlight3\">2 Tokens</span>: Gain a <span class=\"Highlight2\"><span class=\"yellow\">3</span>/<span class=\"green\">4</span>/<span class=\"purple\">5</span>%</span> <b><i>Haste</i></b> status effect, <span class=\"Highlight3\">10 seconds</span> after hooking a Survivor, for a duration of <span class=\"Highlight3\">10 seconds</span>.</li><li><span class=\"Highlight3\">3 Tokens</span>: Survivors suffer from the <b><i>Exposed</i></b> status effect.</li><li><span class=\"Highlight2\">5 Tokens</span>: Grants the ability to kill Survivors by your own hand.</li><br><i>The Hex effects persist as long as the related Hex Totem is standing.</i><br><br><span class=\"ReminderText\">Exposed Survivors will be downed by basic attacks even if uninjured.<br>Haste increases Killer movement speed.</span><br><br><span class=\"FlavorText\">“If you do nothing, you have their blood on your hands. If you save them, her hunger grows.“</span>"
+    },
+    {
+        "id": "hex_thrill_of_the_hunt",
+        "displayName": "Hex: Thrill of the Hunt",
+        "side": "killer",
+        "teachableLevel": -1,
+        "characterIndex": -1,
+        "iconPath": "UI/Icons/Perks/DLC3/iconPerks_thrillOfTheHunt.png",
+        "description": "A Hex rooting its power on hope. The false hope of Survivors fills you with excitement and strengthens your Totems.<br><br>For each Dull and Hex Totem remaining on the map gain a token. <br><li>Gain <span class=\"Highlight1\"><span class=\"yellow\">10</span>%</span> more Bloodpoints for actions in the Hunter category for each token.</li><li>Survivors' cleansing and blessing speed is reduced by <span class=\"Highlight2\"><span class=\"yellow\">8</span>/<span class=\"green\">9</span>/<span class=\"purple\">10</span>%</span> for each token.</li><br><i>The Hex effects persist as long as the related Hex Totem is standing.</i>"
+    }
+]
