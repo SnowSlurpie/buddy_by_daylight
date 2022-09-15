@@ -1,0 +1,378 @@
+{
+    "survivors": {
+        "Dwight_Fairfield": {
+            "index": 0,
+            "name": "Dwight Fairfield",
+            "portraitPath": "images/characters/survivor_portraits/0.png",
+            "wikiPath": "/Dwight_Fairfield"
+        },
+        "Meg_Thomas": {
+            "index": 1,
+            "name": "Meg Thomas",
+            "portraitPath": "images/characters/survivor_portraits/1.png",
+            "wikiPath": "/Meg_Thomas"
+        },
+        "Claudette_Morel": {
+            "index": 2,
+            "name": "Claudette Morel",
+            "portraitPath": "images/characters/survivor_portraits/2.png",
+            "wikiPath": "/Claudette_Morel"
+        },
+        "Jake_Park": {
+            "index": 3,
+            "name": "Jake Park",
+            "portraitPath": "images/characters/survivor_portraits/3.png",
+            "wikiPath": "/Jake_Park"
+        },
+        "Nea_Karlsson": {
+            "index": 4,
+            "name": "Nea Karlsson",
+            "portraitPath": "images/characters/survivor_portraits/4.png",
+            "wikiPath": "/Nea_Karlsson"
+        },
+        "Laurie_Strode": {
+            "index": 5,
+            "name": "Laurie Strode",
+            "portraitPath": "images/characters/survivor_portraits/5.png",
+            "wikiPath": "/Laurie_Strode"
+        },
+        "Ace_Visconti": {
+            "index": 6,
+            "name": "Ace Visconti",
+            "portraitPath": "images/characters/survivor_portraits/6.png",
+            "wikiPath": "/Ace_Visconti"
+        },
+        "William_Overbeck": {
+            "index": 7,
+            "name": "William \"Bill\" Overbeck",
+            "portraitPath": "images/characters/survivor_portraits/7.png",
+            "wikiPath": "William_\"Bill\"_Overbeck"
+        },
+        "Feng_Min": {
+            "index": 8,
+            "name": "Feng Min",
+            "portraitPath": "images/characters/survivor_portraits/8.png",
+            "wikiPath": "/Feng_Min"
+        },
+        "David_King": {
+            "index": 9,
+            "name": "David King",
+            "portraitPath": "images/characters/survivor_portraits/9.png",
+            "wikiPath": "/David_King"
+        },
+        "Kate_Denson": {
+            "index": 10,
+            "name": "Kate Denson",
+            "portraitPath": "images/characters/survivor_portraits/10.png",
+            "wikiPath": "/Kate_Denson"
+        },
+        "Quentin_Smith": {
+            "index": 11,
+            "name": "Quentin Smith",
+            "portraitPath": "images/characters/survivor_portraits/11.png",
+            "wikiPath": "/Quentin_Smith"
+        },
+        "David_Tapp": {
+            "index": 12,
+            "name": "David Tapp",
+            "portraitPath": "images/characters/survivor_portraits/12.png",
+            "wikiPath": "/David_Tapp"
+        },
+        "Adam_Francis": {
+            "index": 13,
+            "name": "Adam Francis",
+            "portraitPath": "images/characters/survivor_portraits/13.png",
+            "wikiPath": "/Adam_Francis"
+        },
+        "Jeff_Johansen": {
+            "index": 14,
+            "name": "Jeff Johansen",
+            "portraitPath": "images/characters/survivor_portraits/14.png",
+            "wikiPath": "/Jeffrey_\"Jeff\"_Johansen"
+        },
+        "Jane_Romero": {
+            "index": 15,
+            "name": "Jane Romero",
+            "portraitPath": "images/characters/survivor_portraits/15.png",
+            "wikiPath": "/Jane_Romero"
+        },
+        "Ash_Williams": {
+            "index": 16,
+            "name": "Ash Williams",
+            "portraitPath": "images/characters/survivor_portraits/16.png",
+            "wikiPath": "/Ash_Williams"
+        },
+        "Nancy_Wheeler": {
+            "index": 17,
+            "name": "Nancy Wheeler",
+            "portraitPath": "images/characters/survivor_portraits/17.png",
+            "wikiPath": "/Nancy_Wheeler"
+        },
+        "Steve_Harrington": {
+            "index": 18,
+            "name": "Steve Harrington",
+            "portraitPath": "images/characters/survivor_portraits/18.png",
+            "wikiPath": "/Steve_Harrington"
+        },
+        "Yui_Kimura": {
+            "index": 19,
+            "name": "Yui Kimura",
+            "portraitPath": "images/characters/survivor_portraits/19.png",
+            "wikiPath": "/Yui_Kimura"
+        },
+        "Zarina_Kassir": {
+            "index": 20,
+            "name": "Zarina Kassir",
+            "portraitPath": "images/characters/survivor_portraits/20.png",
+            "wikiPath": "/Zarina_Kassir"
+        },
+        "Cheryl_Mason": {
+            "index": 21,
+            "name": "Cheryl Mason",
+            "portraitPath": "images/characters/survivor_portraits/21.png",
+            "wikiPath": "/Cheryl_Mason"
+        },
+        "Felix_Richter": {
+            "index": 22,
+            "name": "Felix Richter",
+            "portraitPath": "images/characters/survivor_portraits/22.png",
+            "wikiPath": "/Felix_Richter"
+        },
+        "Elodie_Rakoto": {
+            "index": 23,
+            "name": "Elodie Rakoto",
+            "portraitPath": "images/characters/survivor_portraits/23.png",
+            "wikiPath": "/Élodie_Rakoto"
+        },
+        "Yun_Jin_Lee": {
+            "index": 24,
+            "name": "Yun-Jin Lee",
+            "portraitPath": "images/characters/survivor_portraits/24.png",
+            "wikiPath": "/Yun_Jin_Lee"
+        },
+        "Jill_Valentine": {
+            "index": 25,
+            "name": "Jill Valentine",
+            "portraitPath": "images/characters/survivor_portraits/25.png",
+            "wikiPath": "/Jill_Valentine"
+        },
+        "Leon_Scott_Kennedy": {
+            "index": 26,
+            "name": "Leon Scott Kennedy",
+            "portraitPath": "images/characters/survivor_portraits/26.png",
+            "wikiPath": "/Leon_Scott_Kennedy"
+        },
+        "Mikaela_Reid": {
+            "index": 27,
+            "name": "Mikaela Reid",
+            "portraitPath": "images/characters/survivor_portraits/27.png",
+            "wikiPath": "/Mikaela_Reid"
+        },
+        "Jonah_Vasquez": {
+            "index": 28,
+            "name": "Jonah Vasquez",
+            "portraitPath": "images/characters/survivor_portraits/28.png",
+            "wikiPath": "/Jonah_Vasquez"
+        },
+        "Yoichi_Asakawa": {
+            "index": 29,
+            "name": "Yoichi Asakawa",
+            "portraitPath": "images/characters/survivor_portraits/29.png",
+            "wikiPath": "/Yoichi_Asakawa"
+        },
+        "Haddie_Kaur": {
+            "index": 30,
+            "name": "Haddie Kaur",
+            "portraitPath": "images/characters/survivor_portraits/30.png",
+            "wikiPath": "/Haddie_Kaur"
+        },
+        "Ada Wong":{
+            "index": 31,
+            "name": "Ada Wong",
+            "portraitPath":"images/characters/survivor_portraits/31.png",
+            "wikiPath": "/Ada_Wong"
+        },
+        "Rebecca Chambers":{
+            "index": 32,
+            "name": "Rebecca Chambers",
+            "portraitPath":"images/characters/survivor_portraits/32.png",
+            "wikiPath": "/Rebecca_Chambers"
+        }
+    },
+    "killers": {
+        "The_Trapper": {
+            "index": 268435456,
+            "name": "The Trapper",
+            "portraitPath": "images/characters/killer_portraits/0.png",
+            "wikiPath": "/The_Trapper"
+        },
+        "The_Wraith": {
+            "index": 268435457,
+            "name": "The Wraith",
+            "portraitPath": "images/characters/killer_portraits/1.png",
+            "wikiPath": "/The_Wraith"
+        },
+        "The_Hillbilly": {
+            "index": 268435458,
+            "name": "The Hillbilly",
+            "portraitPath": "images/characters/killer_portraits/2.png",
+            "wikiPath": "/The Hillbilly"
+        },
+        "The_Nurse": {
+            "index": 268435459,
+            "name": "The Nurse",
+            "portraitPath": "images/characters/killer_portraits/3.png",
+            "wikiPath": "/The_Nurse"
+        },
+        "The_Hag": {
+            "index": 268435460,
+            "name": "The Hag",
+            "portraitPath": "images/characters/killer_portraits/4.png",
+            "wikiPath": "/The_Hag"
+        },
+        "The_Shape": {
+            "index": 268435461,
+            "name": "The Shape",
+            "portraitPath": "images/characters/killer_portraits/5.png",
+            "wikiPath": "/The_Shape"
+        },
+        "The_Doctor": {
+            "index": 268435462,
+            "name": "The Doctor",
+            "portraitPath": "images/characters/killer_portraits/6.png",
+            "wikiPath": "/The_Doctor"
+        },
+        "The_Huntress": {
+            "index": 268435463,
+            "name": "The Huntress",
+            "portraitPath": "images/characters/killer_portraits/7.png",
+            "wikiPath": "/The_Huntress"
+        },
+        "The_Cannibal": {
+            "index": 268435464,
+            "name": "The Cannibal",
+            "portraitPath": "images/characters/killer_portraits/8.png",
+            "wikiPath": "/The_Cannibal"
+        },
+        "The_Nightmare": {
+            "index": 268435465,
+            "name": "The Nightmare",
+            "portraitPath": "images/characters/killer_portraits/9.png",
+            "wikiPath": "/The_Nightmare"
+        },
+        "The_Pig": {
+            "index": 268435466,
+            "name": "The Pig",
+            "portraitPath": "images/characters/killer_portraits/10.png",
+            "wikiPath": "/The_Pig"
+        },
+        "The_Clown": {
+            "index": 268435467,
+            "name": "The Clown",
+            "portraitPath": "images/characters/killer_portraits/11.png",
+            "wikiPath": "/The_Clown"
+        },
+        "The_Spirit": {
+            "index": 268435468,
+            "name": "The Spirit",
+            "portraitPath": "images/characters/killer_portraits/12.png",
+            "wikiPath": "/The_Spirit"
+        },
+        "The_Legion": {
+            "index": 268435469,
+            "name": "The Legion",
+            "portraitPath": "images/characters/killer_portraits/13.png",
+            "wikiPath": "/The_Legion"
+        },
+        "The_Plague": {
+            "index": 268435470,
+            "name": "The Plague",
+            "portraitPath": "images/characters/killer_portraits/14.png",
+            "wikiPath": "/The_Plague"
+        },
+        "The_Ghostface": {
+            "index": 268435471,
+            "name": "The Ghostface",
+            "portraitPath": "images/characters/killer_portraits/15.png",
+            "wikiPath": "/The_Ghostface"
+        },
+        "The_Demogorgon": {
+            "index": 268435472,
+            "name": "The Demogorgon",
+            "portraitPath": "images/characters/killer_portraits/16.png",
+            "wikiPath": "/The_Demogorgon"
+        },
+        "The_Oni": {
+            "index": 268435473,
+            "name": "The Oni",
+            "portraitPath": "images/characters/killer_portraits/17.png",
+            "wikiPath": "/The_Oni"
+        },
+        "The_Deathslinger": {
+            "index": 268435474,
+            "name": "The Deathslinger",
+            "portraitPath": "images/characters/killer_portraits/18.png",
+            "wikiPath": "/The_Deathslinger"
+        },
+        "The_Executioner": {
+            "index": 268435475,
+            "name": "The Executioner",
+            "portraitPath": "images/characters/killer_portraits/19.png",
+            "wikiPath": "/The_Executioner"
+        },
+        "The_Blight": {
+            "index": 268435476,
+            "name": "The Blight",
+            "portraitPath": "images/characters/killer_portraits/20.png",
+            "wikiPath": "/The_Blight"
+        },
+        "The_Twins": {
+            "index": 268435477,
+            "name": "The Twins",
+            "portraitPath": "images/characters/killer_portraits/21.png",
+            "wikiPath": "/The_Twins"
+        },
+        "The_Trickster": {
+            "index": 268435478,
+            "name": "The Trickster",
+            "portraitPath": "images/characters/killer_portraits/22.png",
+            "wikiPath": "/The_Trickster"
+        },
+        "The_Nemesis": {
+            "index": 268435479,
+            "name": "The Nemesis",
+            "portraitPath": "images/characters/killer_portraits/23.png",
+            "wikiPath": "/The_Nemesis"
+        },
+        "The_Cenobite": {
+            "index": 268435480,
+            "name": "The Cenobite",
+            "portraitPath": "images/characters/killer_portraits/24.png",
+            "wikiPath": "/The_Cenobite"
+        },
+        "The_Artist": {
+            "index": 268435481,
+            "name": "The Artist",
+            "portraitPath": "images/characters/killer_portraits/25.png",
+            "wikiPath": "/The_Artist"
+        },
+        "The Onryō": {
+            "index": 268435482,
+            "name": "The Onryō",
+            "portraitPath": "images/characters/killer_portraits/26.png",
+            "wikiPath": "/The_Onryō"
+        },
+        "The Dredge": {
+            "index": 268435483,
+            "name": "The Dredge",
+            "portraitPath": "images/characters/killer_portraits/27.png",
+            "wikiPath": "/The_Dredge"
+        },
+        "The Mastermind":{
+            "index": 268435483,
+            "name": "Albert Wesker",
+            "portraitPath": "images/characters/killer_portraits/28.png",
+            "wikiPath": "/Albert_Wesker"
+        }
+    }
+}
